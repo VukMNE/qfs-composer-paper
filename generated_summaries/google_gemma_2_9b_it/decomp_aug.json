@@ -1,0 +1,107 @@
+[
+  {
+    "id": 0,
+    "query": "Na kratko primerjaj vlogo borze in izdaje obveznic v slovenskem podjetniškem financiranju, kot jo opisuje besedilo.",
+    "summary": "Besedilo analizira stanje financiranja slovenskih podjetij, poudarjajoč skromno vlogo borze in izdaje obveznic. Slovenija se zanaša predvsem na bančno financiranje, kar je posledica slabega korporativnega upravljanja, nespoštljivega odnosa do kapitala in zgodovinske navezanosti na banke. Izdaja obveznic je zapleten in drag proces, kar podjetja odvrača od tega vira financiranja.  Borza bi lahko ponudila večjo priložnost za pridobivanje kapitala, vendar je v Sloveniji še vedno slabo razvita."
+  },
+  {
+    "id": 1,
+    "query": "Povzemi, katere pogoste napake pri spoznavanju partnerjev besedilo izpostavlja in zakaj so problematične.",
+    "summary": "Besedilo poudarja pomembnost proaktivnosti pri iskanju partnerja in opozarja na pogoste napake, ki jih ljudje delajo pri spoznavanju potencialnih partnerjev. \n\nMed temi napakami so preobilje pričakovanj, prehitra presoja, pomanjkanje samozavesti, preveč selektivnost, izogibanje čustveno ranljivosti in prehitro obupanje. Besedilo svetuje, da bi se morali ljudje osredotočiti na sebe, razumeti svoje potrebe in vrednote ter biti odprti za nove izkušnje."
+  },
+  {
+    "id": 2,
+    "query": "Na kratko zberi ključne poudarke o zgodovini in časovnici zakonodaje o brezpilotnikih v Sloveniji, kot jo povzema besedilo (prehod na skupna EU pravila, posledice za operaterje).",
+    "summary": "Besedilo opisuje prehod Slovenije na skupna EU pravila za brezpilotnike. Pred tem je bila zakonodaja urejena na nacionalni ravni, kar je povzročilo težave pri delu v drugih državah EU. Nova uredba je uvedla skupne standarde in zahtevala izobraževanje pilotov na daljavo. To je prineslo več prednosti, kot so možnost delovanja v EU brez dodatnih dovoljenj in povečana varnost. Operaterji so morali prilagoditi svoje delovanje tako, da so pridobili nove licence in se usposobili za delovanje v skladu z novimi predpisi."
+  },
+  {
+    "id": 3,
+    "query": "V 3–5 stavkih povzemi glavne razlike med praslovanščino in današnjimi slovanskimi jeziki, kot jih navaja besedilo (npr. razvoj samoglasnikov, dvoglasnik au/aw v vzhodnoalpskem prostoru) ter kaj te razlike povedo o selitvah.",
+    "summary": "Besedilo raziskuje razlike med praslovanščino in današnjimi slovanski jeziki, ki nam pomagajo razumeti selitve Slovanov. \n\nGlavne razlike so v razvoju samoglasnikov (npr. praslovanski kratki a je postal glas o) in dvoglasnika au/aw, ki ga so Slovani v vzhodnoalpskem prostoru še poznali, medtem ko so ga Slovani na Jadranu že izgubili. To kaže na to, da so Slovani naselili vzhodnoalpski prostor pred prihodom na Jadran."
+  },
+  {
+    "id": 4,
+    "query": "Na kratko opiši ugotovitve o številu in prepoznavanju piscev ter kaj to pomeni za razumevanje nastanka in prenosa besedil.",
+    "summary": "Analiza starodavnih rokopisov z uporabo sodobnih tehnologij, kot so hiperspektralne slike in umetna inteligenca, omogoča prepoznavanje posameznih piscev in razumevanje procesa nastanka in prenosa besedil. \n\nUgotovitve kažejo, da so bili rokopisi pogosto delo več piscev, kar pomeni, da je prenos besedil potekal kompleksneje kot prej razumemo. Analiza pisav razkriva tudi informacije o učenju pisanja, jezikovnih sposobnostih in multikulturalizmu v antiki."
+  },
+  {
+    "id": 5,
+    "query": "Povej zakaj je dosežek znanstveno pomemben in zakaj po besedilu nima neposrednega gospodarskega učinka.",
+    "summary": "Besedilo opisuje, kako so fiziki v Cernu uspeli pretvoriti svinec v zlato, kar je uresničilo alkimistične sanje. \n\n**Znanstvena pomembnost:** Ta dosežek izboljša razumevanje elektromagnetne disociacije, kar je pomembno za optimizacijo delovanja trkalnikov delcev, kot je LHC.\n\n**Pomanjkanje gospodarskega učinka:**  Količina zlata, ki je bila ustvarjena, je izjemno majhna in neprimerna za gospodarsko uporabo."
+  },
+  {
+    "id": 6,
+    "query": "V 3–5 stavkih povzemi časovnico projekta, glavne odločitve in ključne prelomnice, ki jih opisuje besedilo.",
+    "summary": "Besedilo opisuje izgradnjo največjega vrtalnega stroja na svetu, Velike Berte, ki je izkopala predor v Seattlu.  \n\nKljučni dogodki so potres leta 2001, ki je razkril ranljivost infrastrukture, in odločitev za gradnjo predora kot rešitev.  \n\nVelika Bertha je naletela na številne težave, kot so zadeta cev, popustila tesnila in poplave, kar je upočasnilo projekt in povzročilo dodatne stroške.  \n\nProjekt se je končal leta 2017, ko je Bertha uspela izkopati predor."
+  },
+  {
+    "id": 7,
+    "query": "Na kratko opiši, kako dodatna zavarovanja vplivajo na vzporedni zdravstveni sistem in čakalne vrste.",
+    "summary": "Dodatna zdravstvena zavarovanja krepijo vzporedni zdravstveni sistem, saj omogočajo preskakovanje čakalnih vrst v javnem zdravstvu. To pomeni, da se tisti, ki si jih lahko privoščijo, dostopa do zdravstvenih storitev hitreje in lažje, medtem ko ostali čakajo dlje."
+  },
+  {
+    "id": 8,
+    "query": "V 3–5 stavkih povzemi pomen frazema in okoliščine, v katerih ga besedilo prikazuje kot primernega.",
+    "summary": "Fraza \"dolg kot jara kača\" označuje nekaj dolgega in dolgotrajnega, ki se vleče kot podolgovata kača. Besedilo navaja primeri uporabe fraze, kot so \"ta cesta je dolga kot jara kača\" ali \"ta zgodba je dolga kot jara kača\"."
+  },
+  {
+    "id": 9,
+    "query": "Kaj po besedilu izhaja o vlogi pristojnih kitajskih institucij pri merjenju, varovanju in javni predstavitvi zidu?",
+    "summary": "Besedilo navaja, da je kitajska državna administracija za kulturno dediščino po sedmih letih raziskav ugotovila, da je Veliki kitajski zid dolg 21.196,18 kilometra.  \n\n**Vendar pa besedilo ne vsebuje informacij o vlogi pristojnih kitajskih institucij pri varovanju, dokumentiranju stanja ali javni predstavitvi zidu.**"
+  },
+  {
+    "id": 10,
+    "query": "Pojasni, katere spremembe pravil sogovornik posredno predlaga in kakšen učinek bi po besedilu imele na trajnost ter delovne pogoje.",
+    "summary": "Besedilo govori o izkušnjah Davorja Ivkovića, poklicnega ribiča iz Izołe.  \n\nV besedilu se ne omenjajo konkretne spremembe pravil, ki jih bi ribiči predlagali. Davor Ivković se pritožuje nad zakoni, ki jih po njegovem mnenju pišejo ljudje, ki nimajo pojma o ribištvu. Meni, da bi morali biti zakoni bolj prilagojeni realnosti in potrebam ribičev. \n\nBesedilo ne pove, kako bi te spremembe pravil vplivale na trajnost ali delovne pogoje."
+  },
+  {
+    "id": 11,
+    "query": "Povzemi ključne ugotovitve raziskave o spremembah dolžine dneva, vključno s časovnim obzorjem in uporabljenimi podatkovnimi pristopi.",
+    "summary": "Raziskava je analizirala zgodovinske zapise o sončevh in luninih mrkih, da bi ugotovila, kako se spreminja dolžina dneva na Zemlji. Ugotovila je, da se dan postopoma podaljšuje, vendar izjemno počasi. Za eno minuto daljši dan bo trajalo 6,7 milijona let, za 25-urni dan pa 200 milijonov let. \n\nRaziskovalci so ugotovili, da je Zemljina orbita okoli Sonca in Lune okoli Zemlje bolj kompleksna, kot so sprva domnevali."
+  },
+  {
+    "id": 12,
+    "query": "Kaj iz besedila izhaja o pogledih delodajalcev in izobraževalnih ustanov na kompetence, ki odločajo pri prehodu na trg dela?",
+    "summary": "Besedilo neposredno ne govori o pogledih delodajalcev in izobraževalnih ustanov na kompetence za prehod na trg dela. \n\nVendar pa iz Tilenovega izkušnje v ZDA lahko sklepamo, da delodajalci v ZDA cenijo **komunikacijske sposobnosti, socialne spretnosti in znanje angleščine**. Tilen je izbral delo zunaj svoje strokovne področja, kar kaže, da so **prilagodljivost in odprtost za nove izzive** pomembne lastnosti. \n\nBesedilo ne ponuja informacij o pogledih izobraževalnih ustanov."
+  },
+  {
+    "id": 13,
+    "query": "Na podlagi besedila povzemite dejavnike, ki so prispevali k podražitvam vzdolž verige od proizvajalcev do trgovcev, ter njihov medsebojni vpliv.",
+    "summary": "Besedilo analizira podražitve hrane v Sloveniji, ki so v zadnjih letih postale izrazito visoke. \n\n**Vzroki za podražitve:**\n\n* **Zvišane cene surovin:** Slabe letine, slabše vremenske razmere in virusne okužbe živali so povzročile višje cene mesa, sadja in drugih surovin.\n* **Višje proizvodne cene:** Cene energije in drugih surovin so se povišale, kar je vplivalo na proizvodne stroške.\n* **Zvišanje marž:** Nekateri trgovci in proizvajalci so izkoristili priložnost za povečanje svojih marž.\n* **Skrčflacija:** Proizvajalci so zmanjšali količino izdelkov, cena pa ostala enaka ali se je celo povišala.\n\n**Vpliv na potrošnike:**\n\nPodražitve so močno obremenile potrošnike, ki morajo za osnovne živila porabiti več časa in denarja.\n\n**Rešitve:**\n\nBesedilo predlaga načrtovanje nakupom, primerjavo cen na enoto, iskanje akcij in kupovanje na delikatesnem oddelku.\n\n\nV skladu z besedilom so **največji vpliv na podražitve imeli zvišane cene sladkorja in slaščičarskih izdelkov**."
+  },
+  {
+    "id": 14,
+    "query": "Pojasnite, kakšen je po besedilu položaj Gaze (upravljanje, varnostni vidiki) in kako to okvirja razumevanje nedavnih dogodkov.",
+    "summary": "Besedilo razlaga položaj Gaze kot območja pod nadzorom Izraela in Egipta, ki ga upravlja Hamas, oboroženo palestinsko gibanje.  \n\nPo besedilu je Gaza praktično zaprta, s strogo nadzorovana mejna prehodom in blokadami, kar vodi v gospodarske težave in omejeno svobodo prebivalstva. \n\nNedavni napad Hamas na Izrael je po besedilu \"najambicioznejši\" napad, ki ga je Hamas kdajkoli sprožil, in je pokazal slabosti izraelske obveščevalne službe. \n\n\nBesedilo ne raziskuje vpliva upravljanja Gaze na nedavne dogodke v podrobnostih, vendar poudarja, da je Hamas odgovorno za napad in da je ta napad posledica dolgotrajnega konflikta med Izraelom in Palestino."
+  },
+  {
+    "id": 15,
+    "query": "Povzemite, kaj natančno prinašajo predlagane spremembe zakona o vodah ter o katerih členih in vsebinah bodo volivci odločali.",
+    "summary": "Na referendumu 11. julija bodo volivci odločali o sprejemu novele zakona o vodah. \n\nNovela spreminja tri člene zakona, ki urejajo:\n\n* **Posege na vodna in priobalna zemljišča:**  Novi zakon olajša gradnjo na teh območjih, tudi v naravi, pod določenimi pogoji.\n* **Porabo sredstev Sklada za vode:**  Sredstva iz sklada se lahko uporabljajo tudi za financiranje javnih gospodarskih služb, kot so vzdrževanje vodotokov in protipoplavna zaščita.\n\n\nGlavni cilj sprememb je povečanje sredstev za vzdrževanje vodotokov in poplavno varnost."
+  },
+  {
+    "id": 16,
+    "query": "Kako besedilo prikazuje vlogo institucij (npr. pristojno ministrstvo, zavod) pri uveljavljanju pravic ter katere postopkovne korake mora izvesti uporabnik?",
+    "summary": "Besedilo obravnava pravice staršev glede porodniškega in starševskega dopusta v Sloveniji. \n\n**Ključne spremembe:**\n\n* Očetje imajo zdaj 60 dni neprenosljivega starševskega dopusta.\n* Očetovski dopust se skrajša na 15 dni.\n\n**Postopki za uveljavljanje pravic:**\n\n* Nosečnice morajo delodajalca obvestiti o nastopu porodniške vsaj 30 dni pred datumom.\n* Morajo se zglasiti na centru za socialno delo (CSD) in pridobiti vlogo za uveljavitev pravic.\n\n**Informacije o porodniški in starševskem dopustu:**\n\n* Trajanje, višina nadomestil in pogoji za uveljavljanje so podrobno opisani v besedilu.\n\n**Druge pomembne informacije:**\n\n* Ob rojstvu otroka starši prejmejo enkratno pomoč v višini 404,96 evra.\n* Občine ponujajo dodatno pomoč ob rojstvu otroka.\n* Starši imajo možnost skrajšanega delovnega časa do otrokovega osmega leta.\n\n\nBesedilo ne omenja konkretnih institucij, ki so pristojne za uveljavljanje pravic, niti ne opisuje postopka obravnave zahtevkov."
+  },
+  {
+    "id": 17,
+    "query": "Povzemite glavne izzive, ki jih besedilo navaja za uvajanje umetne inteligence v izobraževanje",
+    "summary": "Besedilo razpravlja o izzivih uvajanja umetne inteligence (UI) v izobraževanje. Glavni izzivi so:\n\n* **Neusposobljenost učiteljev:** Učitelji niso dovolj usposobljeni za uporabo UI in njeno nadzor.\n* **Preverjanje avtorstva:** Postaja vse težje preveriti avtorstvo del, saj UI lahko generira zelo kakovostno besedilo.\n* **Vpliv na kognitivne procese:** UI lahko negativno vpliva na sposobnost kritičnega mišljenja, ustvarjalnosti in spomina.\n* **Etika:** Vpliv UI na akademsko integriteto in etične standarde je še vedno nejasen.\n\nBesedilo poudarja potrebo po več usposabljanju učiteljev, jasnih etičnih smernicah in strategijah za preverjanje avtorstva, da bi se lahko UI uspešno integrirala v izobraževanje."
+  },
+  {
+    "id": 18,
+    "query": "Kaj besedilo navaja o vzrokih, zaradi katerih klepetalni modeli lahko generirajo skrajna ali problematična stališča, ter na čem temeljijo ti sklepi?",
+    "summary": "Besedilo raziskuje, zakaj klepetalni modeli pogosto generirajo nacistična stališča, medtem ko so marksistična stališča redkejša. \n\nV besedilu se predpostavlja, da je to posledica več dejavnikov:\n\n* **Šok vrednost:** Nacistične izjave so bolj šokantne in se hitreje širijo v internetni kulturi.\n* **\"Trolovski\" trening:** Zlonamerni uporabniki so v preteklosti sistematično \"hranili\" modele z ekstremističnimi vsebinami, kar je privedlo do generiranja neprimernih odgovorov.\n* **Manjša abstrakcija:** Nacistične ideje so bolj preproste in jasno določene, medtem ko zahtevajo več znanja in abstrakcije.\n* **Kapitalistični interes:** Razvijalci botov, ki so financirani s strani kapitalističnih podjetij, nimajo interesa v promoviranju marksističnih idej.\n\nBesedilo ne ponuja konkretnih dokazov ali študij, ki bi podpirale te trditve."
+  },
+  {
+    "id": 19,
+    "query": "Povzemite, katere regulativne in tržne zahteve v zvezi z ESG besedilo navaja kot ključne za spletne trgovce in kako naj bi vplivale na poslovne procese.",
+    "summary": "Besedilo poudarja, da so ESG regulativne in tržne zahteve ključne za spletne trgovce, saj vplivajo na nakupne odločitve kupcev in zahtevajo spreminjanje poslovnih procesov. \n\n**Ključne točke:**\n\n* **Regulativne zahteve:** Direktiva CSRD zahteva od velikih podjetij poročanje o trajnostnem poslovanju, vključno z oceno tveganj in cilji za trajnost.\n* **Tržne zahteve:** Kupci so vse bolj ozaveščeni o trajnosti in so pripravljeni plačati več za trajnostne izdelke in storitve.\n* **Spremembe v poslovnih procesih:** Spletne trgovine morajo spremeniti svoje poslovne procese, da bi upoštevale ESG zahteve. To vključuje uporabo trajnostnih materialov, zmanjšanje emisij, optimizacijo logistike in informiranje kupcev o trajnostnih praksah.\n\n\nBesedilo opozarja, da je pomembno, da spletne trgovine ne gledajo na ESG le kot na skladnost z novimi predpisi, temveč da jo integrirajo v svojo poslovno strategijo."
+  },
+  {
+    "id": 20,
+    "query": "Kaj po besedilu izhaja o pristopu SIJ k sodelovanju z deležniki in upravljanju virov ter kako je to predstavljeno kot primer dobre prakse v panogi?",
+    "summary": "Besedilo opisuje SIJ kot podjetje, ki se zavzema za trajnostno razvoj in krožno gospodarstvo.  \n\n**Poudarjajo:**\n\n* **Uporaba sekundarnih surovin:** SIJ proizvaja jeklo iz jeklenega odpadka, kar zmanjša ogljikove emisije.\n* **Intenzivne naložbe:** V sodobno tehnologijo in digitalizacijo, ki zagotavljajo večjo učinkovitost.\n* **Partnerstva:** Sodelujejo z inštitucijami in drugimi podjetji pri razvoju zelene tehnologije.\n\n**V besedilu ni:**\n\n* Podrobnosti o sodelovanju z deležniki (kupci, lokalna skupnost itd.)\n* Opis, kako SIJ izstopa kot primer dobre prakse v panogi.\n\n\nV bistvu besedilo poudarja SIJ-jeve aktivnosti na področju trajnostnega razvoja in krožnega gospodarstva, vendar ne daje podrobnejšega vpogleda v njihov pristop k sodelovanju z deležniki."
+  }
+]

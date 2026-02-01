@@ -1,0 +1,2209 @@
+{
+	"version": "0.0.1",
+	"data": [
+	  {
+		"id": "56ddde6b9a695914005b9628",
+		"title": "Normans",
+		"context": "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.",
+		"question": "V kateri državi se nahaja Normandija?",
+		"answers": {
+		  "text": [
+			"Franciji",
+			"Franciji",
+			"Franciji",
+			"Franciji"
+		  ],
+		  "answer_start": [
+			147,
+			147,
+			147,
+			147
+		  ]
+		}
+	  },
+	  {
+		"id": "56ddde6b9a695914005b9629",
+		"title": "Normans",
+		"context": "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.",
+		"question": "Kdaj so bili Normani v Normandiji?",
+		"answers": {
+		  "text": [
+			"so v 10. in 11. stoletju",
+			"so v 10. in 11. stoletju",
+			"so v 10. in 11. stoletju",
+			"so v 10. in 11. stoletju"
+		  ],
+		  "answer_start": [
+			92,
+			92,
+			92,
+			92
+		  ]
+		}
+	  },
+	  {
+		"id": "56ddde6b9a695914005b962c",
+		"title": "Normans",
+		"context": "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.",
+		"question": "V katerem stoletju so Normani prvič pridobili svojo identiteto?",
+		"answers": {
+		  "text": [
+			"10. stoletja",
+			"v prvi polovici 10. stoletja",
+			"10.",
+			"10."
+		  ],
+		  "answer_start": [
+			600,
+			584,
+			600,
+			600
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad39d53604f3c001a3fe8d3",
+		"title": "Normans",
+		"context": "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.",
+		"question": "Komu je kralj Karel III. prisegel zvestobo?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad39d53604f3c001a3fe8d4",
+		"title": "Normans",
+		"context": "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.",
+		"question": "Kdaj se je pojavila Frankovska identiteta?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56dddf4066d3e219004dad5f",
+		"title": "Normans",
+		"context": "Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.",
+		"question": "Kdo je bil vojvoda v bitki pri Hastingsu?",
+		"answers": {
+		  "text": [
+			"vojvode Viljema",
+			"vojvode Viljema",
+			"vojvode Viljema"
+		  ],
+		  "answer_start": [
+			997,
+			997,
+			997
+		  ]
+		}
+	  },
+	  {
+		"id": "56dddf4066d3e219004dad61",
+		"title": "Normans",
+		"context": "Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.",
+		"question": "Kakšna religija so bili Normani",
+		"answers": {
+		  "text": [
+			"katoliške",
+			"katoliške ortodoksnosti",
+			"katoliške"
+		  ],
+		  "answer_start": [
+			222,
+			222,
+			222
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3a266604f3c001a3fea27",
+		"title": "Normans",
+		"context": "Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.",
+		"question": "Kakšen vpliv je imela Normanska dinastija na sodobno Evropo?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3a266604f3c001a3fea28",
+		"title": "Normans",
+		"context": "Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.",
+		"question": "Kdo je bil slaven po krščanskem duhu?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3a266604f3c001a3fea29",
+		"title": "Normans",
+		"context": "Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.",
+		"question": "Kdo je asimiliral rimski jezik?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56dde0379a695914005b9636",
+		"title": "Normans",
+		"context": "Angleško ime „Normani“ izhaja iz francoskih besed Normans/Normanz, množina Normanta, moderne francoske norme, ki je sama izposojena od staronizke frankovske Nortmann „Northman“ ali neposredno iz stare nordijske Norðmaðr, latinsko različno kot Nortmannus, Normannus ali Nordmannus (evidentirano v srednjeveški latinščini, 9. stoletje) pomeni „Norseman, Viking“.",
+		"question": "Kaj je prvotni pomen besede Norman?",
+		"answers": {
+		  "text": [
+			"Viking",
+			"Norseman, Viking",
+			"Norseman, Viking"
+		  ],
+		  "answer_start": [
+			352,
+			342,
+			342
+		  ]
+		}
+	  },
+	  {
+		"id": "56dde0379a695914005b9637",
+		"title": "Normans",
+		"context": "Angleško ime „Normani“ izhaja iz francoskih besed Normans/Normanz, množina Normanta, moderne francoske norme, ki je sama izposojena od staronizke frankovske Nortmann „Northman“ ali neposredno iz stare nordijske Norðmaðr, latinsko različno kot Nortmannus, Normannus ali Nordmannus (evidentirano v srednjeveški latinščini, 9. stoletje) pomeni „Norseman, Viking“.",
+		"question": "Kdaj je bila latinska različica besede Norman prvič zabeležena?",
+		"answers": {
+		  "text": [
+			"9. stoletje",
+			"9. stoletje",
+			"9. stoletje"
+		  ],
+		  "answer_start": [
+			321,
+			321,
+			321
+		  ]
+		}
+	  },
+	  {
+		"id": "56dde0ba66d3e219004dad75",
+		"title": "Normans",
+		"context": "V 10. stoletju so se prvotno uničevalni vdori nordijskih vojnih skupin v francoske reke razvile v trajnejše tabore, ki so vključevali lokalne ženske in osebno lastnino. Vojvodina Normandija, ki se je začela leta 911 kot fevd, je bila ustanovljena s pogodbo Saint-Clair-sur-Epte med kraljem Karlom III. iz Zahodne Frankovske in slavnim vikinškim vladarjem Rollom in je bila v nekdanjem frankovskem kraljestvu Nevstrija. Pogodba je Rollu in njegovim možem ponudila francoskim ozemljem med reko Epte in atlantsko obalo v zameno za njihovo zaščito pred nadaljnjimi vikinškimi vdori. Območje je ustrezalo severnemu delu današnje Zgornje Normandije do reke Sene, vendar se je vojvodina sčasoma razširila zahodno preko Sene. Ozemlje je bilo približno enakovredno stari pokrajini Rouen in je reproduciralo rimsko upravno strukturo Gallia Lugdunensis II (del nekdanje Gallije Lugdunensis).",
+		"question": "Kdaj je bila ustanovljena vojvodina Normandija?",
+		"answers": {
+		  "text": [
+			"911",
+			"911",
+			"911"
+		  ],
+		  "answer_start": [
+			212,
+			212,
+			212
+		  ]
+		}
+	  },
+	  {
+		"id": "56dde0ba66d3e219004dad77",
+		"title": "Normans",
+		"context": "V 10. stoletju so se prvotno uničevalni vdori nordijskih vojnih skupin v francoske reke razvile v trajnejše tabore, ki so vključevali lokalne ženske in osebno lastnino. Vojvodina Normandija, ki se je začela leta 911 kot fevd, je bila ustanovljena s pogodbo Saint-Clair-sur-Epte med kraljem Karlom III. iz Zahodne Frankovske in slavnim vikinškim vladarjem Rollom in je bila v nekdanjem frankovskem kraljestvu Nevstrija. Pogodba je Rollu in njegovim možem ponudila francoskim ozemljem med reko Epte in atlantsko obalo v zameno za njihovo zaščito pred nadaljnjimi vikinškimi vdori. Območje je ustrezalo severnemu delu današnje Zgornje Normandije do reke Sene, vendar se je vojvodina sčasoma razširila zahodno preko Sene. Ozemlje je bilo približno enakovredno stari pokrajini Rouen in je reproduciralo rimsko upravno strukturo Gallia Lugdunensis II (del nekdanje Gallije Lugdunensis).",
+		"question": "Katera reka je prvotno omejila vojvodino",
+		"answers": {
+		  "text": [
+			"Epte",
+			"Epte",
+			"Epte"
+		  ],
+		  "answer_start": [
+			492,
+			492,
+			492
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3ad61604f3c001a3fec0e",
+		"title": "Normans",
+		"context": "V 10. stoletju so se prvotno uničevalni vdori nordijskih vojnih skupin v francoske reke razvile v trajnejše tabore, ki so vključevali lokalne ženske in osebno lastnino. Vojvodina Normandija, ki se je začela leta 911 kot fevd, je bila ustanovljena s pogodbo Saint-Clair-sur-Epte med kraljem Karlom III. iz Zahodne Frankovske in slavnim vikinškim vladarjem Rollom in je bila v nekdanjem frankovskem kraljestvu Nevstrija. Pogodba je Rollu in njegovim možem ponudila francoskim ozemljem med reko Epte in atlantsko obalo v zameno za njihovo zaščito pred nadaljnjimi vikinškimi vdori. Območje je ustrezalo severnemu delu današnje Zgornje Normandije do reke Sene, vendar se je vojvodina sčasoma razširila zahodno preko Sene. Ozemlje je bilo približno enakovredno stari pokrajini Rouen in je reproduciralo rimsko upravno strukturo Gallia Lugdunensis II (del nekdanje Gallije Lugdunensis).",
+		"question": "Katera pogodba je bila ustanovljena v 9. stoletju?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ae14604f3c001a3fec39",
+		"title": "Normans",
+		"context": "Pred prihodom Rolla se njegove populacije niso razlikovale od Pikardije ali Île-de-France, ki so veljale za „Francoske“. Prejšnji vikinški naseljenci so začeli prihajati v 880-ih, vendar so bili razdeljeni med kolonije na vzhodu (Roumois in Pays de Caux) okoli nizke doline Sene in na zahodu na polotoku Cotentin in so bili ločeni s tradicionalnimi pagiji, kjer je prebivalstvo ostalo približno enako s skoraj nobenimi tujimi naseljenci. Rollovi kontingenti, ki so napadli in na koncu naselili Normandijo in dele atlantske obale, so bili Danci, Norvežani, Norvežani, Orkney Vikings, morda Švedi in Anglo-Danes iz angleškega Danela pod nordijskim nadzorom.",
+		"question": "Kdaj je Rollo začel prihajati v Normandijo?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ae14604f3c001a3fec3a",
+		"title": "Normans",
+		"context": "Pred prihodom Rolla se njegove populacije niso razlikovale od Pikardije ali Île-de-France, ki so veljale za „Francoske“. Prejšnji vikinški naseljenci so začeli prihajati v 880-ih, vendar so bili razdeljeni med kolonije na vzhodu (Roumois in Pays de Caux) okoli nizke doline Sene in na zahodu na polotoku Cotentin in so bili ločeni s tradicionalnimi pagiji, kjer je prebivalstvo ostalo približno enako s skoraj nobenimi tujimi naseljenci. Rollovi kontingenti, ki so napadli in na koncu naselili Normandijo in dele atlantske obale, so bili Danci, Norvežani, Norvežani, Orkney Vikings, morda Švedi in Anglo-Danes iz angleškega Danela pod nordijskim nadzorom.",
+		"question": "Katere vikinške skupine je osvojil Rollo?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56dde27d9a695914005b9652",
+		"title": "Normans",
+		"context": "Potomci Rollovih Vikingov in njihovih frankovskih žena so nadomestili nordijsko religijo in staro nordijski jezik s katolištvom (krščanstvo) in galo-romskim jezikom lokalnega prebivalstva, pri čemer so združili svojo materinsko frankovsko dediščino s staro nordijsko tradicijo in običaji, da bi sintetizirali edinstveno „normansko“ kulturo na severu Francije. Normanski jezik je bil skovan s sprejetjem avtohtone veje romantike z nordijsko govorečim vladajočim razredom in se je razvil v regionalni jezik, ki danes preživi.",
+		"question": "Kateri del Francije so bili Normani?",
+		"answers": {
+		  "text": [
+			"severu",
+			"na severu",
+			"severu"
+		  ],
+		  "answer_start": [
+			343,
+			340,
+			343
+		  ]
+		}
+	  },
+	  {
+		"id": "56dde2fa66d3e219004dad9b",
+		"title": "Normans",
+		"context": "Normani so nato sprejeli rastoče fevdalne doktrine preostale Francije in jih preoblikovali v funkcionalni hierarhični sistem tako v Normandiji kot v Angliji. Novi normanski vladarji so se kulturno in etnično razlikovali od stare francoske aristokracije, od katerih je večina sledila svoji rodbini Frankom iz karolinške dinastije. Večina normanskih vitezov je ostala revna in lačna, do leta 1066 pa je Normandija več kot eno generacijo izvažala bojne konjenike. Mnogi Normani iz Italije, Francije in Anglije so sčasoma služili kot navdušeni križarji pod italo-normanskim princem Bohemundom I. in anglo-normanskim kraljem Richardom Levom-Heartom.",
+		"question": "Kaj je bil eden od največjih Normanov izvoz?",
+		"answers": {
+		  "text": [
+			"eno generacijo izvažala bojne",
+			"eno generacijo izvažala bojne",
+			"eno generacijo izvažala bojne"
+		  ],
+		  "answer_start": [
+			420,
+			420,
+			420
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3c626604f3c001a3ff012",
+		"title": "Normans",
+		"context": "Normani so nato sprejeli rastoče fevdalne doktrine preostale Francije in jih preoblikovali v funkcionalni hierarhični sistem tako v Normandiji kot v Angliji. Novi normanski vladarji so se kulturno in etnično razlikovali od stare francoske aristokracije, od katerih je večina sledila svoji rodbini Frankom iz karolinške dinastije. Večina normanskih vitezov je ostala revna in lačna, do leta 1066 pa je Normandija več kot eno generacijo izvažala bojne konjenike. Mnogi Normani iz Italije, Francije in Anglije so sčasoma služili kot navdušeni križarji pod italo-normanskim princem Bohemundom I. in anglo-normanskim kraljem Richardom Levom-Heartom.",
+		"question": "Kaj je bil eden od glavnih Normanov uvoz?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de0f6a4396321400ee257f",
+		"title": "Normans",
+		"context": "Kmalu po tem, ko so Normani začeli vstopati v Italijo, so vstopili v Bizantinsko cesarstvo in nato v Armenijo, kjer so se borili proti Pechenegom, Bolgarom in še posebej seldžuškim Turkom. Normanske plačance so Langobardi prvič spodbudili, da so prišli na jug, da bi ukrepali proti Bizantincem, vendar so se kmalu borili v bizantinski službi na Siciliji. V sicilijanski kampanji Georga Maniacesa v letih 1038–40 so bili pomembni poleg Varangianskih in Lombardskih kontingentov. Razpravlja se o tem, ali so bili Normani v grški službi dejansko iz Normanske Italije in zdaj se zdi, da jih je od tam verjetno le nekaj. Prav tako ni znano, koliko „Franks“, kot so jih imenovali Bizantinci, so bili Normani in ne drugi Francozi.",
+		"question": "Kdo je bil glavni sovražnik Normanov v Italiji, Bizantinskem cesarstvu in Armeniji?",
+		"answers": {
+		  "text": [
+			"seldžuškim Turkom",
+			"seldžuškim Turkom",
+			"posebej seldžuškim Turkom"
+		  ],
+		  "answer_start": [
+			170,
+			170,
+			170
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3dbc6604f3c001a3ff3e9",
+		"title": "Normans",
+		"context": "Kmalu po tem, ko so Normani začeli vstopati v Italijo, so vstopili v Bizantinsko cesarstvo in nato v Armenijo, kjer so se borili proti Pechenegom, Bolgarom in še posebej seldžuškim Turkom. Normanske plačance so Langobardi prvič spodbudili, da so prišli na jug, da bi ukrepali proti Bizantincem, vendar so se kmalu borili v bizantinski službi na Siciliji. V sicilijanski kampanji Georga Maniacesa v letih 1038–40 so bili pomembni poleg Varangianskih in Lombardskih kontingentov. Razpravlja se o tem, ali so bili Normani v grški službi dejansko iz Normanske Italije in zdaj se zdi, da jih je od tam verjetno le nekaj. Prav tako ni znano, koliko „Franks“, kot so jih imenovali Bizantinci, so bili Normani in ne drugi Francozi.",
+		"question": "Kdo je kmalu po Bizantinskem cesarstvu vstopil v Italijo?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3dbc6604f3c001a3ff3ea",
+		"title": "Normans",
+		"context": "Kmalu po tem, ko so Normani začeli vstopati v Italijo, so vstopili v Bizantinsko cesarstvo in nato v Armenijo, kjer so se borili proti Pechenegom, Bolgarom in še posebej seldžuškim Turkom. Normanske plačance so Langobardi prvič spodbudili, da so prišli na jug, da bi ukrepali proti Bizantincem, vendar so se kmalu borili v bizantinski službi na Siciliji. V sicilijanski kampanji Georga Maniacesa v letih 1038–40 so bili pomembni poleg Varangianskih in Lombardskih kontingentov. Razpravlja se o tem, ali so bili Normani v grški službi dejansko iz Normanske Italije in zdaj se zdi, da jih je od tam verjetno le nekaj. Prav tako ni znano, koliko „Franks“, kot so jih imenovali Bizantinci, so bili Normani in ne drugi Francozi.",
+		"question": "S kom so se Normani borili v Italiji?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3dbc6604f3c001a3ff3eb",
+		"title": "Normans",
+		"context": "Kmalu po tem, ko so Normani začeli vstopati v Italijo, so vstopili v Bizantinsko cesarstvo in nato v Armenijo, kjer so se borili proti Pechenegom, Bolgarom in še posebej seldžuškim Turkom. Normanske plačance so Langobardi prvič spodbudili, da so prišli na jug, da bi ukrepali proti Bizantincem, vendar so se kmalu borili v bizantinski službi na Siciliji. V sicilijanski kampanji Georga Maniacesa v letih 1038–40 so bili pomembni poleg Varangianskih in Lombardskih kontingentov. Razpravlja se o tem, ali so bili Normani v grški službi dejansko iz Normanske Italije in zdaj se zdi, da jih je od tam verjetno le nekaj. Prav tako ni znano, koliko „Franks“, kot so jih imenovali Bizantinci, so bili Normani in ne drugi Francozi.",
+		"question": "Koga so Normani spodbujali, da pride na jug?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de0ffd4396321400ee258d",
+		"title": "Normans",
+		"context": "Eden prvih normanskih plačancev, ki je služil kot bizantinski general, je bil Hervé v 1050-ih. Do takrat so že bili normanski plačanci, ki so služili tako daleč kot Trebizond in Gruzija. Nahajali so se v Malatiji in Edesi, pod bizantinskim vojvodo Antiohijo, Izakom Komnenom. Leta 1060 je Robert Crispin vodil Normane Edessa proti Turkom. Roussel de Bailleul je celo poskušal izrezati neodvisno državo v Mali Aziji s podporo lokalnega prebivalstva, vendar ga je ustavil bizantinski general Aleksej Komnenos.",
+		"question": "Kdaj je Herve služil kot bizantinski general?",
+		"answers": {
+		  "text": [
+			"v 1050-ih",
+			"v 1050-ih",
+			"v 1050-ih"
+		  ],
+		  "answer_start": [
+			84,
+			84,
+			84
+		  ]
+		}
+	  },
+	  {
+		"id": "56de0ffd4396321400ee258e",
+		"title": "Normans",
+		"context": "Eden prvih normanskih plačancev, ki je služil kot bizantinski general, je bil Hervé v 1050-ih. Do takrat so že bili normanski plačanci, ki so služili tako daleč kot Trebizond in Gruzija. Nahajali so se v Malatiji in Edesi, pod bizantinskim vojvodo Antiohijo, Izakom Komnenom. Leta 1060 je Robert Crispin vodil Normane Edessa proti Turkom. Roussel de Bailleul je celo poskušal izrezati neodvisno državo v Mali Aziji s podporo lokalnega prebivalstva, vendar ga je ustavil bizantinski general Aleksej Komnenos.",
+		"question": "Kdaj se je Robert Crispin uprl Turkom?",
+		"answers": {
+		  "text": [
+			"1060",
+			"Leta 1060 je",
+			"Leta 1060 je"
+		  ],
+		  "answer_start": [
+			281,
+			276,
+			276
+		  ]
+		}
+	  },
+	  {
+		"id": "56de0ffd4396321400ee258f",
+		"title": "Normans",
+		"context": "Eden prvih normanskih plačancev, ki je služil kot bizantinski general, je bil Hervé v 1050-ih. Do takrat so že bili normanski plačanci, ki so služili tako daleč kot Trebizond in Gruzija. Nahajali so se v Malatiji in Edesi, pod bizantinskim vojvodo Antiohijo, Izakom Komnenom. Leta 1060 je Robert Crispin vodil Normane Edessa proti Turkom. Roussel de Bailleul je celo poskušal izrezati neodvisno državo v Mali Aziji s podporo lokalnega prebivalstva, vendar ga je ustavil bizantinski general Aleksej Komnenos.",
+		"question": "Kdo je uničil načrte Roussela de Bailleula za neodvisno državo?",
+		"answers": {
+		  "text": [
+			"Aleksej Komnenos",
+			"Aleksej Komnenos",
+			"Aleksej Komnenos"
+		  ],
+		  "answer_start": [
+			490,
+			490,
+			490
+		  ]
+		}
+	  },
+	  {
+		"id": "56de10b44396321400ee2593",
+		"title": "Normans",
+		"context": "Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.",
+		"question": "Kako se imenuje normanski grad?",
+		"answers": {
+		  "text": [
+			"Afranji",
+			"Afranji",
+			"Afranji"
+		  ],
+		  "answer_start": [
+			506,
+			506,
+			506
+		  ]
+		}
+	  },
+	  {
+		"id": "56de10b44396321400ee2594",
+		"title": "Normans",
+		"context": "Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.",
+		"question": "Kdo je bil vodja, ko so Franki vstopili v dolino Evfrata?",
+		"answers": {
+		  "text": [
+			"Oursel",
+			"Oursel",
+			"Oursel"
+		  ],
+		  "answer_start": [
+			238,
+			238,
+			238
+		  ]
+		}
+	  },
+	  {
+		"id": "56de10b44396321400ee2595",
+		"title": "Normans",
+		"context": "Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.",
+		"question": "S kom so Normani sodelovali v Anatoliji?",
+		"answers": {
+		  "text": [
+			"turške sile",
+			"turške sile",
+			"turške sile"
+		  ],
+		  "answer_start": [
+			29,
+			29,
+			29
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3e96b604f3c001a3ff68a",
+		"title": "Normans",
+		"context": "Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.",
+		"question": "S kom so Turki začeli služiti?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de11154396321400ee25aa",
+		"title": "Normans",
+		"context": "Več družin bizantinske Grčije je bilo normanskega plačanca v obdobju Komnenske obnove, ko so bizantinski cesarji iskali zahodnoevropske bojevnike. Raoulii so bili potomci italo-normana po imenu Raoul, Petralifae so potomci Pierra d’Aulpsa, skupina albanskih klanov, znana kot Manjakati, pa je bila potomka Normanov, ki so služili pod Georgeom Maniacesom na sicilijanski ekspediciji leta 1038.",
+		"question": "Kakšen je bil izvor družine Raouliii?",
+		"answers": {
+		  "text": [
+			"normanskega"
+		  ],
+		  "answer_start": [
+			38
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3ea79604f3c001a3ff6eb",
+		"title": "Normans",
+		"context": "Več družin bizantinske Grčije je bilo normanskega plačanca v obdobju Komnenske obnove, ko so bizantinski cesarji iskali zahodnoevropske bojevnike. Raoulii so bili potomci italo-normana po imenu Raoul, Petralifae so potomci Pierra d’Aulpsa, skupina albanskih klanov, znana kot Manjakati, pa je bila potomka Normanov, ki so služili pod Georgeom Maniacesom na sicilijanski ekspediciji leta 1038.",
+		"question": "Katero odpravo je vodil George Maniaces v 10. stoletju?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de148dcffd8e1900b4b5bd",
+		"title": "Normans",
+		"context": "Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.",
+		"question": "Kdaj je Dyrrachium padel na Normane?",
+		"answers": {
+		  "text": [
+			"1082",
+			"februarja 1082",
+			"februarja 1082"
+		  ],
+		  "answer_start": [
+			1166,
+			1156,
+			1156
+		  ]
+		}
+	  },
+	  {
+		"id": "56de148dcffd8e1900b4b5be",
+		"title": "Normans",
+		"context": "Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.",
+		"question": "Koliko mož je bilo v Robertovi vojski?",
+		"answers": {
+		  "text": [
+			"30.000 mož",
+			"30.000 mož",
+			"30.000 mož"
+		  ],
+		  "answer_start": [
+			455,
+			455,
+			455
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3ed26604f3c001a3ff799",
+		"title": "Normans",
+		"context": "Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.",
+		"question": "Kdo je Bizantince izgnal iz Evrope?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ed26604f3c001a3ff79a",
+		"title": "Normans",
+		"context": "Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.",
+		"question": "Kateri papež je nasprotoval kampanji Robertsa?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ed26604f3c001a3ff79b",
+		"title": "Normans",
+		"context": "Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.",
+		"question": "Kaj je padlo na Normane v 10. stoletju?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ed26604f3c001a3ff79c",
+		"title": "Normans",
+		"context": "Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.",
+		"question": "S koliko možmi se je soočila Robertsova vojska?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de15104396321400ee25b7",
+		"title": "Normans",
+		"context": "Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.",
+		"question": "Kje so Normani in Bizantinci podpisali mirovno pogodbo?",
+		"answers": {
+		  "text": [
+			"Deabolis",
+			"Deabolis",
+			"Deabolis"
+		  ],
+		  "answer_start": [
+			656,
+			656,
+			656
+		  ]
+		}
+	  },
+	  {
+		"id": "56de15104396321400ee25b8",
+		"title": "Normans",
+		"context": "Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.",
+		"question": "Kdo je bil Robertov sin?",
+		"answers": {
+		  "text": [
+			"Bohemond",
+			"Bohemond",
+			"Bohemond"
+		  ],
+		  "answer_start": [
+			70,
+			70,
+			70
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3ee2d604f3c001a3ff7e1",
+		"title": "Normans",
+		"context": "Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.",
+		"question": "Koga so Normani oblegali v 11. stoletju?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ee2d604f3c001a3ff7e2",
+		"title": "Normans",
+		"context": "Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.",
+		"question": "Kdo je Robert spet vodil Dyrrachium leta 1107?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3ee2d604f3c001a3ff7e3",
+		"title": "Normans",
+		"context": "Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.",
+		"question": "Kdo je bil Bohemondov sin?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de1563cffd8e1900b4b5c2",
+		"title": "Normans",
+		"context": "Nadaljnje upadanje bizantinske države je utrlo pot do tretjega napada leta 1185, ko je velika normanska vojska napadla Dirrachium zaradi izdaje visokih bizantinskih uradnikov. Nekaj časa kasneje je Dyrrachium, eden najpomembnejših pomorskih baz Jadrana, ponovno padel v bizantinske roke.",
+		"question": "Kdaj so Normani napadli Dyrrachium?",
+		"answers": {
+		  "text": [
+			"leta 1185",
+			"leta 1185",
+			"leta 1185"
+		  ],
+		  "answer_start": [
+			70,
+			70,
+			70
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3f028604f3c001a3ff825",
+		"title": "Normans",
+		"context": "Nadaljnje upadanje bizantinske države je utrlo pot do tretjega napada leta 1185, ko je velika normanska vojska napadla Dirrachium zaradi izdaje visokih bizantinskih uradnikov. Nekaj časa kasneje je Dyrrachium, eden najpomembnejših pomorskih baz Jadrana, ponovno padel v bizantinske roke.",
+		"question": "Katera mornariška baza je padla v Normane?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "56de15dbcffd8e1900b4b5c8",
+		"title": "Normans",
+		"context": "Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.",
+		"question": "Kdo se je poročil z Emmo?",
+		"answers": {
+		  "text": [
+			"kralja Ethelreda II",
+			"kralja Ethelreda II",
+			"kralja Ethelreda II"
+		  ],
+		  "answer_start": [
+			275,
+			275,
+			275
+		  ]
+		}
+	  },
+	  {
+		"id": "56de15dbcffd8e1900b4b5c9",
+		"title": "Normans",
+		"context": "Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.",
+		"question": "Kdo je bil Emmin brat?",
+		"answers": {
+		  "text": [
+			"vojvode Riharda II. iz Normandije",
+			"vojvode Riharda II. iz Normandije",
+			"vojvode Riharda II. iz Normandije"
+		  ],
+		  "answer_start": [
+			238,
+			238,
+			238
+		  ]
+		}
+	  },
+	  {
+		"id": "56de15dbcffd8e1900b4b5ca",
+		"title": "Normans",
+		"context": "Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.",
+		"question": "Kam je Ethelred pobegnil?",
+		"answers": {
+		  "text": [
+			"Normandijo",
+			"Normandijo",
+			"Normandijo"
+		  ],
+		  "answer_start": [
+			341,
+			341,
+			341
+		  ]
+		}
+	  },
+	  {
+		"id": "5ad3f187604f3c001a3ff86f",
+		"title": "Normans",
+		"context": "Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.",
+		"question": "Kdo se je poročil s Knutom Velikim?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3f187604f3c001a3ff870",
+		"title": "Normans",
+		"context": "Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.",
+		"question": "Kdaj je Richard II. pobegnil v Normandijo?",
+		"answers": {
+		  "text": [],
+		  "answer_start": []
+		}
+	  },
+	  {
+		"id": "5ad3f187604f3c001a3ff871",
+		"title": "Normans",
+		"context": "Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.",
+		"question": "Katera glavna pristanišča so nadzorovali Angleži?",
+		"answers": {
+			"text": [],
+			"answer_start": []
+		}
+	  },
+	  {
+            "id": "56de1645cffd8e1900b4b5d1",
+            "title": "Normans",
+            "context": "Ko se je Edvard Spovednik leta 1041 vrnil iz očetovega zatočišča na povabilo njegovega polbrata Harthacnuta, je s seboj prinesel normansko izobražen um. Pripeljal je tudi veliko normanskih svetovalcev in borcev, od katerih so nekateri ustanovili angleško konjeniško silo. Ta koncept se nikoli ni zares ukoreninil, vendar je tipičen primer Edwardovega odnosa. Imenoval je Roberta Jumiègesovega nadškofa Canterburyja in Ralpha imenoval za grofa Hereforda. Svojega svaka Eustacea II., grofa Boulogna, je povabil na sodišče leta 1051, dogodek, ki je privedel do največjih zgodnjih konfliktov med Saškim in Normanom in na koncu privedel do izgnanstva grofa Godvina iz Wessexa.",
+            "question": "Kdaj se je Edward vrnil?",
+            "answers": {
+                "text": [
+                    "1041",
+                    "1041",
+                    "1041"
+                ],
+                "answer_start": [
+                    31,
+                    31,
+                    31
+                ]
+            }
+        },
+		{
+            "id": "56e16182e3433e1400422e28",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Katera veja teoretične računalništva se ukvarja s široko klasifikacijo računalniških problemov po težavnosti in razredu razmerja?",
+            "answers": {
+                "text": [
+                    "Računalniška teorija kompleksnosti",
+                    "Računalniška teorija kompleksnosti",
+                    "Računalniška teorija kompleksnosti"
+                ],
+                "answer_start": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+		{
+            "id": "56e16182e3433e1400422e29",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Po katerem glavnem atributu so računalniške težave razvrščene z uporabo računalniške teorije kompleksnosti?",
+            "answers": {
+                "text": [
+                    "inherentno težavnost",
+                    "njihovo inherentno težavnost",
+                    "inherentno težavnost"
+                ],
+                "answer_start": [
+                    172,
+                    164,
+                    172
+                ]
+            }
+        },
+		{
+            "id": "56e16182e3433e1400422e2a",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Kakšen je izraz za nalogo, ki se običajno lahko reši z računalnikom?",
+            "answers": {
+                "text": [
+                    "računalniških problemov",
+                    "Računski problem",
+                    "problem"
+                ],
+                "answer_start": [
+                    131,
+                    232,
+                    241
+                ]
+            }
+        },
+		{
+            "id": "5ad5316b5b96ef001a10ab72",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Kaj je načelo računalniške kompleksnosti?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "5ad5316b5b96ef001a10ab74",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Kaj se razume kot naloga, ki je načeloma ni mogoče spremeniti, da bi jo rešil računalnik?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "5ad5316b5b96ef001a10ab75",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Kaj ni mogoče rešiti z mehansko uporabo matematičnih korakov?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "5ad5316b5b96ef001a10ab76",
+            "title": "Computational_complexity_theory",
+            "context": "Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.",
+            "question": "Kaj je ročna uporaba matematičnih korakov?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "56e16839cd28a01900c67887",
+            "title": "Computational_complexity_theory",
+            "context": "Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.",
+            "question": "Kakšno merilo računalniškega problema na splošno opredeljuje težave, ki so neločljivo povezane z rešitvijo?",
+            "answers": {
+                "text": [
+                    "če njegova rešitev zahteva znatna sredstva",
+                    "njegova rešitev zahteva znatna sredstva",
+                    "če njegova rešitev zahteva znatna sredstva"
+                ],
+                "answer_start": [
+                    32,
+                    35,
+                    32
+                ]
+            }
+        },
+		{
+            "id": "56e16839cd28a01900c67889",
+            "title": "Computational_complexity_theory",
+            "context": "Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.",
+            "question": "Kaj sta dva osnovna primarna vira, ki se uporabljata za prikaz kompleksnosti?",
+            "answers": {
+                "text": [
+                    "čas in shranjevanje",
+                    "čas in shranjevanje",
+                    "čas in shranjevanje"
+                ],
+                "answer_start": [
+                    294,
+                    294,
+                    294
+                ]
+            }
+        },
+		{
+            "id": "56e16839cd28a01900c6788a",
+            "title": "Computational_complexity_theory",
+            "context": "Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.",
+            "question": "Katera enota se meri za določitev kompleksnosti vezja?",
+            "answers": {
+                "text": [
+                    "število vrat v vezju",
+                    "število vrat v vezju",
+                    "število vrat"
+                ],
+                "answer_start": [
+                    445,
+                    445,
+                    445
+                ]
+            }
+        },
+		{
+            "id": "56e16839cd28a01900c6788b",
+            "title": "Computational_complexity_theory",
+            "context": "Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.",
+            "question": "Kakšno praktično vlogo ima opredelitev kompleksnosti problemov v vsakdanjem računalništvu?",
+            "answers": {
+                "text": [
+                    "določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti",
+                    "tega, kaj računalniki lahko in ne morejo storiti",
+                    "določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti"
+                ],
+                "answer_start": [
+                    621,
+                    649,
+                    621
+                ]
+            }
+        },
+		{
+            "id": "5ad532575b96ef001a10ab7d",
+            "title": "Computational_complexity_theory",
+            "context": "Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.",
+            "question": "Katera metoda se ne uporablja za intuitivno ocenjevanje ali količinsko opredelitev količine sredstev, potrebnih za rešitev računalniškega problema?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "5ad532575b96ef001a10ab80",
+            "title": "Computational_complexity_theory",
+            "context": "Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.",
+            "question": "Katera številka se uporablja v pravokotnem računalništvu?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "56e17644e3433e1400422f41",
+            "title": "Computational_complexity_theory",
+            "context": "Tesno povezana področja v teoretični računalništvu so analiza algoritmov in teorije računalništva. Ključno razlikovanje med analizo algoritmov in teorijo računske kompleksnosti je, da je prva namenjena analizi količine virov, ki jih določen algoritem potrebuje za rešitev problema, medtem ko slednja postavlja splošnejše vprašanje o vseh možnih algoritmih, ki bi se lahko uporabili za rešitev istega problema. Natančneje, poskuša razvrstiti probleme, ki jih je mogoče ali jih ni mogoče rešiti z ustrezno omejenimi sredstvi. Uvedba omejitev razpoložljivih virov pa razlikuje med računalniško zapletenostjo in teorijo izračunavanja: slednja teorija sprašuje, kakšne probleme je načeloma mogoče rešiti algoritemsko.",
+            "question": "Katero področje računalništva analizira potrebe po virih določenega algoritma, izoliranega zase v danem problemu?",
+            "answers": {
+                "text": [
+                    "analiza algoritmov",
+                    "analizo algoritmov",
+                    "analizo algoritmov"
+                ],
+                "answer_start": [
+                    54,
+                    124,
+                    124
+                ]
+            }
+        },
+		{
+            "id": "56e17644e3433e1400422f42",
+            "title": "Computational_complexity_theory",
+            "context": "Tesno povezana področja v teoretični računalništvu so analiza algoritmov in teorije računalništva. Ključno razlikovanje med analizo algoritmov in teorijo računske kompleksnosti je, da je prva namenjena analizi količine virov, ki jih določen algoritem potrebuje za rešitev problema, medtem ko slednja postavlja splošnejše vprašanje o vseh možnih algoritmih, ki bi se lahko uporabili za rešitev istega problema. Natančneje, poskuša razvrstiti probleme, ki jih je mogoče ali jih ni mogoče rešiti z ustrezno omejenimi sredstvi. Uvedba omejitev razpoložljivih virov pa razlikuje med računalniško zapletenostjo in teorijo izračunavanja: slednja teorija sprašuje, kakšne probleme je načeloma mogoče rešiti algoritemsko.",
+            "question": "Katero področje računalništva analizira vse možne algoritme v agregatu za določitev potreb po virih, potrebnih za rešitev določenega problema?",
+            "answers": {
+                "text": [
+                    "teorijo računske kompleksnosti",
+                    "teorijo računske kompleksnosti",
+                    "teorijo računske kompleksnosti"
+                ],
+                "answer_start": [
+                    146,
+                    146,
+                    146
+                ]
+            }
+        },
+		{
+            "id": "5ad5344b5b96ef001a10ab87",
+            "title": "Computational_complexity_theory",
+            "context": "Tesno povezana področja v teoretični računalništvu so analiza algoritmov in teorije računalništva. Ključno razlikovanje med analizo algoritmov in teorijo računske kompleksnosti je, da je prva namenjena analizi količine virov, ki jih določen algoritem potrebuje za rešitev problema, medtem ko slednja postavlja splošnejše vprašanje o vseh možnih algoritmih, ki bi se lahko uporabili za rešitev istega problema. Natančneje, poskuša razvrstiti probleme, ki jih je mogoče ali jih ni mogoče rešiti z ustrezno omejenimi sredstvi. Uvedba omejitev razpoložljivih virov pa razlikuje med računalniško zapletenostjo in teorijo izračunavanja: slednja teorija sprašuje, kakšne probleme je načeloma mogoče rešiti algoritemsko.",
+            "question": "Kaj ni ključno razlikovanje med analizo algoritmov in teorijo računalniške kompleksnosti?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "5ad5344b5b96ef001a10ab8a",
+            "title": "Computational_complexity_theory",
+            "context": "Tesno povezana področja v teoretični računalništvu so analiza algoritmov in teorije računalništva. Ključno razlikovanje med analizo algoritmov in teorijo računske kompleksnosti je, da je prva namenjena analizi količine virov, ki jih določen algoritem potrebuje za rešitev problema, medtem ko slednja postavlja splošnejše vprašanje o vseh možnih algoritmih, ki bi se lahko uporabili za rešitev istega problema. Natančneje, poskuša razvrstiti probleme, ki jih je mogoče ali jih ni mogoče rešiti z ustrezno omejenimi sredstvi. Uvedba omejitev razpoložljivih virov pa razlikuje med računalniško zapletenostjo in teorijo izračunavanja: slednja teorija sprašuje, kakšne probleme je načeloma mogoče rešiti algoritemsko.",
+            "question": "Kateri proces razvršča probleme, ki jih je mogoče rešiti s približno neomejenimi sredstvi in jih ni mogoče rešiti?",
+            "answers": {
+                "text": [],
+                "answer_start": []
+            }
+        },
+		{
+            "id": "56e17a7ccd28a01900c679a1",
+            "title": "Computational_complexity_theory",
+            "context": "Računski problem je mogoče obravnavati kot neskončno zbirko primerov skupaj z rešitvijo za vsak primer. Vhodni niz za računski problem se imenuje problemski primer in ga ne smemo zamenjevati s samim problemom. V teoriji računske kompleksnosti se problem nanaša na abstraktno vprašanje, ki ga je treba rešiti. Nasprotno pa je primer tega problema precej konkreten izraz, ki lahko prispeva k problemu odločanja. Na primer, razmislite o problemu preizkušanja prvobitnosti. Primer je številka (npr. 15), rešitev pa je „da“, če je številka prazna, sicer pa „ne“ (v tem primeru „ne“). Navedeno drugače, primer je poseben vložek k problemu, rešitev pa je rezultat, ki ustreza danemu vložku.",
+            "question": "Kakšno je ime vhodnega niza računalniškega problema?",
+            "answers": {
+                "text": [
+                    "problemski primer",
+                    "problemski primer",
+                    "problemski primer"
+                ],
+                "answer_start": [
+                    149,
+                    149,
+                    149
+                ]
+            }
+        },
+		{
+			"id": "5705e26d75f01819005e76d4",
+			"title": "Southern_California",
+			"context": "Južna Kalifornija, pogosto skrajšana SoCal, je g...sko središče za državo Kalifornijo in Združene države Amerike.",
+			"question": "Kaj je Južna Kalifornija pogosto kratica?",
+			"answers": {
+			  "text": ["SoCal","SoCal","SoCal"],
+			  "answer_start": [37,37,37]
+			}
+		  },
+		  {
+			"id": "5705e26d75f01819005e76d5",
+			"title": "Southern_California",
+			"context": "Južna Kalifornija, pogosto skrajšana SoCal, je g...sko središče za državo Kalifornijo in Združene države Amerike.",
+			"question": "Katera regija vključuje Los Angeles in San Diego?",
+			"answers": {
+			  "text": ["Južna Kalifornija","Južna Kalifornija","Južna Kalifornija"],
+			  "answer_start": [0,0,0]
+			}
+		  },
+		  {
+			"id": "5ad49fa4604f3c001a3fe6a2",
+			"title": "Southern_California",
+			"context": "Južna Kalifornija, pogosto skrajšana SoCal, je g...sko središče za državo Kalifornijo in Združene države Amerike.",
+			"question": "Kateri državi je Južna Kalifornija prestolnica?",
+			"answers": {
+			  "text": [],
+			  "answer_start": []
+			}
+		  },
+		  {
+    "id": "5705e26d75f01819005e76d4",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija, pogosto skrajšana SoCal, je geografska in kulturna regija, ki na splošno obsega najjužnejših 10 okrožij v Kaliforniji. Regija je tradicionalno opisana kot „osem držav“, ki temeljijo na demografskih in gospodarskih povezavah: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara in Ventura. Obsežnejša opredelitev desetih držav, vključno z grofijama Kern in San Luis Obispo, se uporablja tudi na podlagi zgodovinskih političnih delitev. Južna Kalifornija je pomembno gospodarsko središče za državo Kalifornijo in Združene države Amerike.",
+    "question": "Kaj je Južna Kalifornija pogosto kratica?",
+    "answers": {
+      "text": [
+        "SoCal",
+        "SoCal",
+        "SoCal"
+      ],
+      "answer_start": [
+        37,
+        37,
+        37
+      ]
+    }
+  },
+  {
+    "id": "5705e26d75f01819005e76d6",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija, pogosto skrajšana SoCal, je geografska in kulturna regija, ki na splošno obsega najjužnejših 10 okrožij v Kaliforniji. Regija je tradicionalno opisana kot „osem držav“, ki temeljijo na demografskih in gospodarskih povezavah: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara in Ventura. Obsežnejša opredelitev desetih držav, vključno z grofijama Kern in San Luis Obispo, se uporablja tudi na podlagi zgodovinskih političnih delitev. Južna Kalifornija je pomembno gospodarsko središče za državo Kalifornijo in Združene države Amerike.",
+    "question": "Kaj je velik pomen južne Kalifornije v odnosu do Kalifornije in Združenih držav?",
+    "answers": {
+      "text": [
+        "gospodarsko središče",
+        "pomembno gospodarsko središče",
+        "gospodarsko središče"
+      ],
+      "answer_start": [
+        515,
+        506,
+        515
+      ]
+    }
+  },
+  {
+    "id": "57092322efce8f15003a7db0",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Katera družba je bila ustanovljena z združitvijo Sky Television in British Satellite Broadcasting?",
+    "answers": {
+      "text": [
+        "BSkyB",
+        "BSkyB",
+        "BSkyB"
+      ],
+      "answer_start": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "57092322efce8f15003a7db1",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Kdo je največje digitalno naročniško televizijsko podjetje v Združenem kraljestvu?",
+    "answers": {
+      "text": [
+        "BSkyB",
+        "BSkyB",
+        "BSkyB"
+      ],
+      "answer_start": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "570d2417fed7b91900d45c3d",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Kakšno gospodarstvo ima Victoria?",
+    "answers": {
+      "text": [
+        "raznoliko",
+        "zelo raznoliko",
+        "zelo raznoliko"
+      ],
+      "answer_start": [
+        31,
+        26,
+        26
+      ]
+    }
+  },
+  {
+    "id": "570d2417fed7b91900d45c3e",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Kje se glede na bruto državni proizvod Victoria uvršča v Avstralijo?",
+    "answers": {
+      "text": [
+        "drugo",
+        "drugo",
+        "drugo"
+      ],
+      "answer_start": [
+        296,
+        296,
+        296
+      ]
+    }
+  },
+  {
+    "id": "57105da9a58dae1900cd699e",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kje je bilo francosko prebivalstvo Huguenot v veliki meri osredotočeno?",
+    "answers": {
+      "text": [
+        "južnih in osrednjih delih Francije",
+        "južnih in osrednjih delih Francije,",
+        "približno ena osmina"
+      ],
+      "answer_start": [
+        96,
+        96,
+        132
+      ]
+    }
+  },
+  {
+    "id": "57105da9a58dae1900cd699f",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kolikšen je bil delež Huguenotov do katolikov na njihovem vrhuncu?",
+    "answers": {
+      "text": [
+        "približno ena osmina števila",
+        "približno ena osmina",
+        "približno ena osmina"
+      ],
+      "answer_start": [
+        132,
+        132,
+        132
+      ]
+    }
+  },
+  {
+    "id": "57112686b654c5140001fbd3",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Kaj je poleg geotermalne in jedrske energije pomemben vir toplote, ki ne zgoreva?",
+    "answers": {
+      "text": [
+        "sončna",
+        "so sončna",
+        ", kot so sončna energija, jedrska energija ali geotermalna energija",
+        "sončna"
+      ],
+      "answer_start": [
+        163,
+        160,
+        154,
+        163
+      ]
+    }
+  },
+  {
+    "id": "57112686b654c5140001fbd4",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Kateri idealen termodinamični cikel analizira proces, s katerim delujejo parni stroji?",
+    "answers": {
+      "text": [
+        "Rankinov",
+        "Rankinov cikel",
+        "Rankinov cikel",
+        "Rankinov cikel"
+      ],
+      "answer_start": [
+        305,
+        305,
+        305,
+        305
+      ]
+    }
+  },
+  {
+    "id": "571a484210f8ca1400304fbd",
+    "title": "Oxygen",
+    "context": "Kisik je kemični element s simbolom O in atomskim številom 8. Je član halkogenske skupine na periodnem sistemu in je visoko reaktivno nekovinsko in oksidacijsko sredstvo, ki z večino elementov hitro tvori spojine (zlasti okside). Po masi je kisik tretji najbolj bogat element v vesolju, za vodikom in helijem. Pri standardni temperaturi in tlaku se dva atoma elementa vežeta na dioksigen, brezbarven in diatomski plin brez vonja s formulo O 2. Diatomski kisik predstavlja 20,8 % Zemljine atmosfere. Vendar spremljanje ravni kisika v atmosferi kaže svetovni trend upadanja zaradi zgorevanja fosilnih goriv. Kisik je največji masni element v Zemljini skorji kot del oksidnih spojin, kot je silicijev dioksid, ki predstavlja skoraj polovico mase skorje.",
+    "question": "Atomsko število periodične tabele za kisik?",
+    "answers": {
+      "text": [
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "answer_start": [
+        59,
+        59,
+        59,
+        59,
+        59
+      ]
+    }
+  },
+  {
+    "id": "571a484210f8ca1400304fbe",
+    "title": "Oxygen",
+    "context": "Kisik je kemični element s simbolom O in atomskim številom 8. Je član halkogenske skupine na periodnem sistemu in je visoko reaktivno nekovinsko in oksidacijsko sredstvo, ki z večino elementov hitro tvori spojine (zlasti okside). Po masi je kisik tretji najbolj bogat element v vesolju, za vodikom in helijem. Pri standardni temperaturi in tlaku se dva atoma elementa vežeta na dioksigen, brezbarven in diatomski plin brez vonja s formulo O 2. Diatomski kisik predstavlja 20,8 % Zemljine atmosfere. Vendar spremljanje ravni kisika v atmosferi kaže svetovni trend upadanja zaradi zgorevanja fosilnih goriv. Kisik je največji masni element v Zemljini skorji kot del oksidnih spojin, kot je silicijev dioksid, ki predstavlja skoraj polovico mase skorje.",
+    "question": "Kateri je drugi najobsežnejši element?",
+    "answers": {
+      "text": [
+        "helijem",
+        "helijem",
+        "helijem",
+        "helijem",
+        "helijem"
+      ],
+      "answer_start": [
+        301,
+        301,
+        301,
+        301,
+        301
+      ]
+    }
+  },
+  {
+    "id": "5ad0178577cf76001a68698a",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija, pogosto skrajšana SoCal, je geografska in kulturna regija, ki na splošno obsega najjužnejših 10 okrožij v Kaliforniji. Regija je tradicionalno opisana kot „osem držav“, ki temeljijo na demografskih in gospodarskih povezavah: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara in Ventura. Obsežnejša opredelitev desetih držav, vključno z grofijama Kern in San Luis Obispo, se uporablja tudi na podlagi zgodovinskih političnih delitev. Južna Kalifornija je pomembno gospodarsko središče za državo Kalifornijo in Združene države Amerike.",
+    "question": "Katere grofije vključujejo širše osem okrajnih opredelitev SoCal?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad0178577cf76001a68698b",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija, pogosto skrajšana SoCal, je geografska in kulturna regija, ki na splošno obsega najjužnejših 10 okrožij v Kaliforniji. Regija je tradicionalno opisana kot „osem držav“, ki temeljijo na demografskih in gospodarskih povezavah: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara in Ventura. Obsežnejša opredelitev desetih držav, vključno z grofijama Kern in San Luis Obispo, se uporablja tudi na podlagi zgodovinskih političnih delitev. Južna Kalifornija je pomembno gospodarsko središče za državo Kalifornijo in Združene države Amerike.",
+    "question": "Kaj dodatni dve okrožji, da deset okrožij v tradicionalno opredelitev SoCal vključujejo?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c08aebfd06b001a5ae989",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Katera družba je bila jezna zaradi združitve Sky Television in British Satellite Broadcasting?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c08aebfd06b001a5ae98a",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Kdo je najmanjša digitalna televizijska družba v Združenem kraljestvu?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a6374de68151a001a9222e6",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Kakšno izobrazbo ima Victoria?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a6374de68151a001a9222e7",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Kje se glede na neto domači izdelek Victoria uvršča v Avstralijo?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad23fded7d075001a4288fc",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kdaj se je začelo gibanje Huguenot?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad23fded7d075001a4288fd",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kje so bili francoski katoličani skoncentrirani v Franciji?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5705e26d75f01819005e76d7",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija, pogosto skrajšana SoCal, je geografska in kulturna regija, ki na splošno obsega najjužnejših 10 okrožij v Kaliforniji. Regija je tradicionalno opisana kot „osem držav“, ki temeljijo na demografskih in gospodarskih povezavah: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara in Ventura. Obsežnejša opredelitev desetih držav, vključno z grofijama Kern in San Luis Obispo, se uporablja tudi na podlagi zgodovinskih političnih delitev. Južna Kalifornija je pomembno gospodarsko središče za državo Kalifornijo in Združene države Amerike.",
+    "question": "Katere so vezi, ki najbolje opisujejo, na čem temelji „osem okrožij“?",
+    "answers": {
+      "text": [
+        "demografskih in gospodarskih povezavah",
+        "gospodarskih",
+        "demografskih in gospodarskih"
+      ],
+      "answer_start": [
+        204,
+        220,
+        204
+      ]
+    }
+  },
+  {
+    "id": "5705e33f52bb89140068964c",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Kakšno je ime regije, ki ni opredeljeno z osmimi ali desetimi okrajnimi opredelitvami?",
+    "answers": {
+      "text": [
+        "južno kalifornijsko megaregijo",
+        "za večjo južno kalifornijsko megaregijo",
+        "južno kalifornijsko megaregijo"
+      ],
+      "answer_start": [
+        55,
+        46,
+        55
+      ]
+    }
+  },
+  {
+    "id": "57092322efce8f15003a7db2",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Katero leto je podjetje BSkyB kupilo podjetje Sky Italia?",
+    "answers": {
+      "text": [
+        "2014",
+        "2014",
+        "2014"
+      ],
+      "answer_start": [
+        210,
+        210,
+        210
+      ]
+    }
+  },
+  {
+    "id": "57092322efce8f15003a7db3",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Kako se imenuje holdinška družba za BSkyB?",
+    "answers": {
+      "text": [
+        "Sky plc",
+        "British Sky Broadcasting Group plc",
+        "British Sky Broadcasting Group plc"
+      ],
+      "answer_start": [
+        371,
+        323,
+        323
+      ]
+    }
+  },
+  {
+    "id": "570d2417fed7b91900d45c3f",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Na kakšnem rangu GPS na prebivalca postavlja Victorio?",
+    "answers": {
+      "text": [
+        "četrtem",
+        "četrtem",
+        "četrtem"
+      ],
+      "answer_start": [
+        379,
+        379,
+        379
+      ]
+    }
+  },
+  {
+    "id": "570d2417fed7b91900d45c40",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Katero mesto v Viktoriji se imenuje športna prestolnica Avstralije?",
+    "answers": {
+      "text": [
+        "Melbourne",
+        "Melbourne",
+        "Melbourne"
+      ],
+      "answer_start": [
+        547,
+        427,
+        427
+      ]
+    }
+  },
+  {
+    "id": "57105da9a58dae1900cd69a0",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kdaj so se borile verske vojne?",
+    "answers": {
+      "text": [
+        "letoma 1562 in 1598",
+        "1562 in 1598"
+      ],
+      "answer_start": [
+        467,
+        474
+      ]
+    }
+  },
+  {
+    "id": "57105da9a58dae1900cd69a1",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "S katerim sporazumom so se končale verske vojne?",
+    "answers": {
+      "text": [
+        "edikta iz Nantesa",
+        "iz Nantesa",
+        "edikta iz Nantesa"
+      ],
+      "answer_start": [
+        529,
+        536,
+        529
+      ]
+    }
+  },
+  {
+    "id": "57112686b654c5140001fbd5",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "V Rankinovem ciklu, v kaj se spremeni voda pri segrevanju?",
+    "answers": {
+      "text": [
+        "paro",
+        "paro",
+        "paro",
+        "paro"
+      ],
+      "answer_start": [
+        359,
+        359,
+        359,
+        359
+      ]
+    }
+  },
+  {
+    "id": "57112686b654c5140001fbd6",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Pod kakšnim pritiskom je voda ogrevana v Rankinovem ciklu?",
+    "answers": {
+      "text": [
+        "visokem",
+        "visokem",
+        "visokem tlaku",
+        "visokem"
+      ],
+      "answer_start": [
+        387,
+        387,
+        387,
+        387
+      ]
+    }
+  },
+  {
+    "id": "5ad0178577cf76001a68698c",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija, pogosto skrajšana SoCal, je geografska in kulturna regija, ki na splošno obsega najjužnejših 10 okrožij v Kaliforniji. Regija je tradicionalno opisana kot „osem držav“, ki temeljijo na demografskih in gospodarskih povezavah: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara in Ventura. Obsežnejša opredelitev desetih držav, vključno z grofijama Kern in San Luis Obispo, se uporablja tudi na podlagi zgodovinskih političnih delitev. Južna Kalifornija je pomembno gospodarsko središče za državo Kalifornijo in Združene države Amerike.",
+    "question": "Kje je središče gospodarske dejavnosti za Združene države Amerike?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad0185a77cf76001a6869b8",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Kaj je ena od 10 megaregij v Združenih državah Amerike?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c08aebfd06b001a5ae98b",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Katero leto je BSkyB odstranil Sky Italia?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c08aebfd06b001a5ae98c",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Kdaj je BSkyB postal največja ameriška televizijska družba?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a6374de68151a001a9222e8",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Na kakšnem rangu je GPS storitev v Victoria?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a6374de68151a001a9222e9",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Katero mesto v Victoriji se imenuje kriket v Avstraliji?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad23fded7d075001a4288fe",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kdo je sprva začel verske vojne?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad23fded7d075001a4288ff",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Koliko Huguenotov je bilo tam leta 1598?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad3bd8f604f3c001a3fef2d",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Kaj je poleg geotermalne in jedrske energije pomemben vir toplote za zgorevanje?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad3bd8f604f3c001a3fef2e",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Kateri idealen termodinamični cikel analizira proces, s katerim delujejo sončni motorji?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5705e33f52bb89140068964d",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Koliko megaregij je v ZDA?",
+    "answers": {
+      "text": [
+        "11",
+        "11",
+        "11"
+      ],
+      "answer_start": [
+        94,
+        94,
+        94
+      ]
+    }
+  },
+  {
+    "id": "5705e33f52bb89140068964f",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Na kateri meji se razteza megaregija?",
+    "answers": {
+      "text": [
+        "mehiško",
+        "mehiško",
+        "mehiško"
+      ],
+      "answer_start": [
+        217,
+        217,
+        217
+      ]
+    }
+  },
+  {
+    "id": "57094a79efce8f15003a7dc4",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Katero leto je Setanta Sports podelila pravice za oddajanje Primeier Leage?",
+    "answers": {
+      "text": [
+        "2006",
+        "2006",
+        "2006"
+      ],
+      "answer_start": [
+        196,
+        196,
+        196
+      ]
+    }
+  },
+  {
+    "id": "57094a79efce8f15003a7dc5",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Koliko od šestih paketov, ki so bili na voljo izdajateljem televizijskega programa, je prejelo Setanta?",
+    "answers": {
+      "text": [
+        "dva",
+        "dva",
+        "dva"
+      ],
+      "answer_start": [
+        267,
+        267,
+        267
+      ]
+    }
+  },
+  {
+    "id": "570d2417fed7b91900d45c41",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Kaj je največji stadion v Avstraliji?",
+    "answers": {
+      "text": [
+        "Melbourne Cricket Ground",
+        "Melbourne Cricket Ground",
+        "Melbourne Cricket Ground"
+      ],
+      "answer_start": [
+        547,
+        547,
+        547
+      ]
+    }
+  },
+  {
+    "id": "570d2556fed7b91900d45c47",
+    "title": "Victoria_(Australia)",
+    "context": "Priseljenci so prišli iz vsega sveta, da bi iskali zlato, zlasti iz Irske in Kitajske. Mnogi kitajski rudarji so delali v Viktoriji, njihova zapuščina pa je še posebej močna v Bendigu in njegovi okolici. Čeprav je bilo nekaj rasizma usmerjeno nanje, ni bilo stopnje protikitajskega nasilja, ki so ga videli v nemirih Lambing Flat v Novem južnem Walesu. Vendar pa je prišlo do nemirov v dolini Buckland blizu Brighta leta 1857. Pogoji na zlatih poljih so bili utesnjeni in nehigienski; izbruh tifusa v dolini Buckland leta 1854 je ubil več kot 1.000 rudarjev.",
+    "question": "Kje je azijski vpliv najmočnejši v Viktoriji?",
+    "answers": {
+      "text": [
+        "Bendigu",
+        "Bendigu",
+        "Bendigu"
+      ],
+      "answer_start": [
+        176,
+        176,
+        176
+      ]
+    }
+  },
+  {
+    "id": "57105da9a58dae1900cd69a2",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Kaj se je zgodilo s tem sporazumom?",
+    "answers": {
+      "text": [
+        "Huguenotom podelil znatno versko, politično in vojaško avtonomijo",
+        "Huguenotom podelil znatno versko, politično in vojaško avtonomijo",
+        "Huguenotom podelil znatno versko, politično in vojaško avtonomijo"
+      ],
+      "answer_start": [
+        554,
+        554,
+        554
+      ]
+    }
+  },
+  {
+    "id": "57106185b654c5140001f8db",
+    "title": "Huguenot",
+    "context": "Izraz, ki je bil prvotno uporabljen v zasmehovanju, ima nejasen izvor. Napredovale so različne hipoteze. Vzdevek je bil morda kombiniran sklic na švicarskega politika Besançona Huguesa (umrl 1532) in versko konfliktne narave švicarskega republikanizma v njegovem času z uporabo pametnega ponižujočega stavka na ime Hugues z nizozemsko besedo Huisgenoten (dobesedno sostanovalci), ki se nanaša na konotacije nekoliko povezane besede v nemški Eidgenosse (Confederates kot „državljan ene od držav Švicarske konfederacije“). Ženeva je bila posvojeni dom Johna Calvina in središče kalvinističnega gibanja. V Ženevi je bil Hugues, čeprav katoličan, voditelj „konfederacijske stranke“, tako imenovanega, ker je spodbujal neodvisnost od vojvode Savojske prek zavezništva med mestno državo Ženevo in Švicarsko konfederacijo. Oznaka Huguenot je bila domnevno prvič uporabljena v Franciji za tiste zarotnike (vsi aristokratske člane reformirane cerkve), ki so sodelovali v amboizejevi zaroti iz leta 1560: preprečen poskus, da bi se v Franciji borili z močjo iz vplivne hiše Guise. Poteza bi imela stranski učinek spodbujanja odnosov s Švico. Tako sta Hugues in Eidgenosse s Huisgenotenom domnevno postala Huguenot, vzdevek, ki povezuje protestantski vzrok s politiko nepriljubljene v Franciji.",
+    "question": "Izraz Huguenot je bil prvotno mišljen, da se podeli?",
+    "answers": {
+      "text": [
+        "uporabljen",
+        "uporabljen",
+        "uporabljen"
+      ],
+      "answer_start": [
+        25,
+        25,
+        25
+      ]
+    }
+  },
+  {
+    "id": "57112686b654c5140001fbd7",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Katere vrste motorjev so parni stroji?",
+    "answers": {
+      "text": [
+        "z zunanjim zgorevanjem",
+        "z zunanjim zgorevanjem",
+        "motorji z zunanjim zgorevanjem",
+        "z zunanjim zgorevanjem"
+      ],
+      "answer_start": [
+        24,
+        24,
+        16,
+        24
+      ]
+    }
+  },
+  {
+    "id": "571126dfa58dae1900cd6cb2",
+    "title": "Steam_engine",
+    "context": "Prvi komercialno uspešen pravi motor, saj je lahko proizvajal moč in jo prenesel na stroj, je bil atmosferski motor, ki ga je izumil Thomas Newcomen okoli leta 1712. To je bilo izboljšanje nad Saveryjevo parno črpalko z batom, kot ga je predlagal Papin. Newcomenov motor je bil relativno neučinkovit in je bil v večini primerov uporabljen za črpanje vode. Delal je tako, da je ustvaril delni vakuum s kondenziranjem pare pod batom v valju. Uporabljena je bila za odvajanje rudnikov na globinah, ki jih doslej ni bilo mogoče, in tudi za zagotavljanje oskrbe z vodo za večkratno uporabo za vožnjo vodnih koles v tovarnah, ki so bile odmaknjene od ustrezne „glave“. Voda, ki je prešla čez kolo, je bila prečrpana nazaj v zbiralnik nad kolesom.",
+    "question": "Kateri je bil prvi pravi motor, ki je bil komercialno uspešen?",
+    "answers": {
+      "text": [
+        "atmosferski motor",
+        "atmosferski motor",
+        "atmosferski motor",
+        "atmosferski motor"
+      ],
+      "answer_start": [
+        98,
+        98,
+        98,
+        98
+      ]
+    }
+  },
+  {
+    "id": "5ad0185a77cf76001a6869b9",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Od kod se razteza okrajna megaregija 8?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad0185a77cf76001a6869ba",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Kaj je Las Vegas eden od v Združenih državah Amerike?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c08aebfd06b001a5ae98d",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.",
+    "question": "Katero podjetje ne trguje več kot Sky?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c0c2fbfd06b001a5ae99b",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Katero podjetje je imelo kratek pravni spor z Evropsko komisijo?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a6374de68151a001a9222ea",
+    "title": "Victoria_(Australia)",
+    "context": "Gospodarstvo Viktorije je zelo raznoliko: storitveni sektorji, vključno s finančnimi in nepremičninskimi storitvami, zdravstvom, izobraževanjem, veleprodajo, maloprodajo, gostinstvom in proizvodnjo, predstavljajo večino delovnih mest. Celotni bruto državni proizvod (GSP) Viktorije je uvrščen na drugo mesto v Avstraliji, čeprav je Victoria zaradi omejene rudarske dejavnosti na četrtem mestu po GSP na prebivalca. Kulturno je Melbourne dom številnih muzejev, umetniških galerij in gledališč in je opisan tudi kot„športna prestolnica Avstralije“. Melbourne Cricket Ground je največji stadion v Avstraliji in gostitelj poletnih olimpijskih iger 1956 in iger Commonwealth 2006. Tla veljajo tudi za „duhovni dom“ avstralskega kriketa in avstralskega pravila nogometa, in gosti grand finale avstralske nogometne lige (AFL) vsako leto, običajno privablja množice več kot 95.000 ljudi. Victoria vključuje osem javnih univerz, z najstarejšo, Univerza v Melbournu, ki je bila ustanovljena leta 1853.",
+    "question": "Koliko javnih univerz je v Melbournu?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a637a8868151a001a922304",
+    "title": "Victoria_(Australia)",
+    "context": "Priseljenci so prišli iz vsega sveta, da bi iskali zlato, zlasti iz Irske in Kitajske. Mnogi kitajski rudarji so delali v Viktoriji, njihova zapuščina pa je še posebej močna v Bendigu in njegovi okolici. Čeprav je bilo nekaj rasizma usmerjeno nanje, ni bilo stopnje protikitajskega nasilja, ki so ga videli v nemirih Lambing Flat v Novem južnem Walesu. Vendar pa je prišlo do nemirov v dolini Buckland blizu Brighta leta 1857. Pogoji na zlatih poljih so bili utesnjeni in nehigienski; izbruh tifusa v dolini Buckland leta 1854 je ubil več kot 1.000 rudarjev.",
+    "question": "Kje so azijski zlati rudarji najmočnejši v Viktoriji?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad23fded7d075001a428900",
+    "title": "Huguenot",
+    "context": "Huguenotska števila so dosegla vrh blizu dveh milijonov do leta 1562, skoncentrirana predvsem v južnih in osrednjih delih Francije, približno ena osmina števila francoskih katoličanov. Ko so Huguenotsi pridobili vpliv in bolj odkrito izkazovali svojo vero, je katoliška sovražnost rasla, kljub vse bolj liberalnim političnim popuščanju in izrekom strpnosti od francoske krone. Sledila je vrsta verskih konfliktov, znanih kot verske vojne, ki so se občasno borile med letoma 1562 in 1598. Vojne so se končno končale s podelitvijo edikta iz Nantesa, ki je Huguenotom podelil znatno versko, politično in vojaško avtonomijo.",
+    "question": "Koliko francoskih katoličanov je bilo tam leta 1598?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad241c7d7d075001a428978",
+    "title": "Huguenot",
+    "context": "Izraz, ki je bil prvotno uporabljen v zasmehovanju, ima nejasen izvor. Napredovale so različne hipoteze. Vzdevek je bil morda kombiniran sklic na švicarskega politika Besançona Huguesa (umrl 1532) in versko konfliktne narave švicarskega republikanizma v njegovem času z uporabo pametnega ponižujočega stavka na ime Hugues z nizozemsko besedo Huisgenoten (dobesedno sostanovalci), ki se nanaša na konotacije nekoliko povezane besede v nemški Eidgenosse (Confederates kot „državljan ene od držav Švicarske konfederacije“). Ženeva je bila posvojeni dom Johna Calvina in središče kalvinističnega gibanja. V Ženevi je bil Hugues, čeprav katoličan, voditelj „konfederacijske stranke“, tako imenovanega, ker je spodbujal neodvisnost od vojvode Savojske prek zavezništva med mestno državo Ženevo in Švicarsko konfederacijo. Oznaka Huguenot je bila domnevno prvič uporabljena v Franciji za tiste zarotnike (vsi aristokratske člane reformirane cerkve), ki so sodelovali v amboizejevi zaroti iz leta 1560: preprečen poskus, da bi se v Franciji borili z močjo iz vplivne hiše Guise. Poteza bi imela stranski učinek spodbujanja odnosov s Švico. Tako sta Hugues in Eidgenosse s Huisgenotenom domnevno postala Huguenot, vzdevek, ki povezuje protestantski vzrok s politiko nepriljubljene v Franciji.",
+    "question": "V katerem letu se je rodil švicarski politik Besancon Hugues?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad3bd8f604f3c001a3fef2f",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "V Rankinovem ciklu, v kaj se spremeni jedrska energija, ko se segreje?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad3bd8f604f3c001a3fef30",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Pod kakšnim pritiskom se v Rankineovem ciklu segreva jedrska energija?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5705e33f52bb891400689650",
+    "title": "Southern_California",
+    "context": "Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.",
+    "question": "Kako se imenuje območje mimo meje, v katero se razteza megaregija?",
+    "answers": {
+      "text": [
+        "Tijuano",
+        "Tijuano",
+        "Tijuano"
+      ],
+      "answer_start": [
+        232,
+        232,
+        232
+      ]
+    }
+  },
+  {
+    "id": "5705e3f252bb89140068966a",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija vključuje močno pozidano urbano območje, ki se razteza vzdolž pacifiške obale od Venture, skozi širše območje Los Angelesa in celinsko cesarstvo ter vse do Velikega San Diega. Prebivalstvo južne Kalifornije obsega sedem metropolitanskih območij ali MSA: metropolitansko območje Los Angelesa, ki ga sestavljajo okrožja Los Angeles in Orange; celinsko cesarstvo, sestavljeno iz okrožij Riverside in San Bernardino; metropolitansko območje San Diego; metropolitansko območje Oxnard-Thousand Oaks-Ventura; območje podzemne železnice Santa Barbara; metropolitansko območje San Luis Obispo; in območje El Centro. Od teh so tri močno poseljena območja: območje Los Angelesa z več kot 12 milijoni prebivalcev, območje Riverside-San Bernardino z več kot štirimi milijoni prebivalcev in območje San Diego z več kot 3 milijoni prebivalcev. Za CSA metropolitanske namene, pet okrožij Los Angeles, Orange, Riverside, San Bernardino, in Ventura vse skupaj sestavljajo Greater Los Angeles Area z več kot 17,5 milijona ljudi. Z več kot 22 milijoni ljudi, južna Kalifornija vsebuje približno 60 odstotkov prebivalstva Kalifornije.",
+    "question": "Na katero obalo se dotakne Južna Kalifornija?",
+    "answers": {
+      "text": [
+        "pacifiške",
+        "pacifiške",
+        "pacifiške"
+      ],
+      "answer_start": [
+        80,
+        80,
+        80
+      ]
+    }
+  },
+  {
+    "id": "57094a79efce8f15003a7dc6",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Kdo je pobral preostale 4 pakakaže, ki so na voljo izdajateljem televizijskega programa?",
+    "answers": {
+      "text": [
+        "Sky",
+        "Sky",
+        "Sky"
+      ],
+      "answer_start": [
+        373,
+        373,
+        373
+      ]
+    }
+  },
+  {
+    "id": "57094a79efce8f15003a7dc7",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Koliko je Sky ponudil za zmago na 4 oddaja pacakges so kupili?",
+    "answers": {
+      "text": [
+        "milijarde funtov",
+        "milijarde funtov",
+        "4,2 milijarde funtov"
+      ],
+      "answer_start": [
+        410,
+        410,
+        458
+      ]
+    }
+  },
+  {
+    "id": "570d2556fed7b91900d45c48",
+    "title": "Victoria_(Australia)",
+    "context": "Priseljenci so prišli iz vsega sveta, da bi iskali zlato, zlasti iz Irske in Kitajske. Mnogi kitajski rudarji so delali v Viktoriji, njihova zapuščina pa je še posebej močna v Bendigu in njegovi okolici. Čeprav je bilo nekaj rasizma usmerjeno nanje, ni bilo stopnje protikitajskega nasilja, ki so ga videli v nemirih Lambing Flat v Novem južnem Walesu. Vendar pa je prišlo do nemirov v dolini Buckland blizu Brighta leta 1857. Pogoji na zlatih poljih so bili utesnjeni in nehigienski; izbruh tifusa v dolini Buckland leta 1854 je ubil več kot 1.000 rudarjev.",
+    "question": "Kje so bili Lambing Flat nemiri?",
+    "answers": {
+      "text": [
+        "Novem južnem Walesu",
+        "Novem južnem Walesu",
+        "Novem južnem Walesu"
+      ],
+      "answer_start": [
+        332,
+        332,
+        332
+      ]
+    }
+  },
+  {
+    "id": "570d2556fed7b91900d45c49",
+    "title": "Victoria_(Australia)",
+    "context": "Priseljenci so prišli iz vsega sveta, da bi iskali zlato, zlasti iz Irske in Kitajske. Mnogi kitajski rudarji so delali v Viktoriji, njihova zapuščina pa je še posebej močna v Bendigu in njegovi okolici. Čeprav je bilo nekaj rasizma usmerjeno nanje, ni bilo stopnje protikitajskega nasilja, ki so ga videli v nemirih Lambing Flat v Novem južnem Walesu. Vendar pa je prišlo do nemirov v dolini Buckland blizu Brighta leta 1857. Pogoji na zlatih poljih so bili utesnjeni in nehigienski; izbruh tifusa v dolini Buckland leta 1854 je ubil več kot 1.000 rudarjev.",
+    "question": "Kje je bil upor iz leta 1857?",
+    "answers": {
+      "text": [
+        "dolini Buckland",
+        "dolini Buckland blizu Brighta",
+        "dolini Buckland"
+      ],
+      "answer_start": [
+        386,
+        386,
+        386
+      ]
+    }
+  },
+  {
+    "id": "57106185b654c5140001f8dc",
+    "title": "Huguenot",
+    "context": "Izraz, ki je bil prvotno uporabljen v zasmehovanju, ima nejasen izvor. Napredovale so različne hipoteze. Vzdevek je bil morda kombiniran sklic na švicarskega politika Besançona Huguesa (umrl 1532) in versko konfliktne narave švicarskega republikanizma v njegovem času z uporabo pametnega ponižujočega stavka na ime Hugues z nizozemsko besedo Huisgenoten (dobesedno sostanovalci), ki se nanaša na konotacije nekoliko povezane besede v nemški Eidgenosse (Confederates kot „državljan ene od držav Švicarske konfederacije“). Ženeva je bila posvojeni dom Johna Calvina in središče kalvinističnega gibanja. V Ženevi je bil Hugues, čeprav katoličan, voditelj „konfederacijske stranke“, tako imenovanega, ker je spodbujal neodvisnost od vojvode Savojske prek zavezništva med mestno državo Ženevo in Švicarsko konfederacijo. Oznaka Huguenot je bila domnevno prvič uporabljena v Franciji za tiste zarotnike (vsi aristokratske člane reformirane cerkve), ki so sodelovali v amboizejevi zaroti iz leta 1560: preprečen poskus, da bi se v Franciji borili z močjo iz vplivne hiše Guise. Poteza bi imela stranski učinek spodbujanja odnosov s Švico. Tako sta Hugues in Eidgenosse s Huisgenotenom domnevno postala Huguenot, vzdevek, ki povezuje protestantski vzrok s politiko nepriljubljene v Franciji.",
+    "question": "Izraz je lahko povezan s katerim politikom iz Švice?",
+    "answers": {
+      "text": [
+        "Huguesa",
+        "Huguesa",
+        "Huguesa"
+      ],
+      "answer_start": [
+        177,
+        177,
+        177
+      ]
+    }
+  },
+  {
+    "id": "57106185b654c5140001f8dd",
+    "title": "Huguenot",
+    "context": "Izraz, ki je bil prvotno uporabljen v zasmehovanju, ima nejasen izvor. Napredovale so različne hipoteze. Vzdevek je bil morda kombiniran sklic na švicarskega politika Besançona Huguesa (umrl 1532) in versko konfliktne narave švicarskega republikanizma v njegovem času z uporabo pametnega ponižujočega stavka na ime Hugues z nizozemsko besedo Huisgenoten (dobesedno sostanovalci), ki se nanaša na konotacije nekoliko povezane besede v nemški Eidgenosse (Confederates kot „državljan ene od držav Švicarske konfederacije“). Ženeva je bila posvojeni dom Johna Calvina in središče kalvinističnega gibanja. V Ženevi je bil Hugues, čeprav katoličan, voditelj „konfederacijske stranke“, tako imenovanega, ker je spodbujal neodvisnost od vojvode Savojske prek zavezništva med mestno državo Ženevo in Švicarsko konfederacijo. Oznaka Huguenot je bila domnevno prvič uporabljena v Franciji za tiste zarotnike (vsi aristokratske člane reformirane cerkve), ki so sodelovali v amboizejevi zaroti iz leta 1560: preprečen poskus, da bi se v Franciji borili z močjo iz vplivne hiše Guise. Poteza bi imela stranski učinek spodbujanja odnosov s Švico. Tako sta Hugues in Eidgenosse s Huisgenotenom domnevno postala Huguenot, vzdevek, ki povezuje protestantski vzrok s politiko nepriljubljene v Franciji.",
+    "question": "Katero švicarsko mesto je bilo središče kalvinističnega gibanja?",
+    "answers": {
+      "text": [
+        "Ženeva",
+        "Ženeva",
+        "Ženeva"
+      ],
+      "answer_start": [
+        521,
+        521,
+        521
+      ]
+    }
+  },
+  {
+    "id": "571126dfa58dae1900cd6cb3",
+    "title": "Steam_engine",
+    "context": "Prvi komercialno uspešen pravi motor, saj je lahko proizvajal moč in jo prenesel na stroj, je bil atmosferski motor, ki ga je izumil Thomas Newcomen okoli leta 1712. To je bilo izboljšanje nad Saveryjevo parno črpalko z batom, kot ga je predlagal Papin. Newcomenov motor je bil relativno neučinkovit in je bil v večini primerov uporabljen za črpanje vode. Delal je tako, da je ustvaril delni vakuum s kondenziranjem pare pod batom v valju. Uporabljena je bila za odvajanje rudnikov na globinah, ki jih doslej ni bilo mogoče, in tudi za zagotavljanje oskrbe z vodo za večkratno uporabo za vožnjo vodnih koles v tovarnah, ki so bile odmaknjene od ustrezne „glave“. Voda, ki je prešla čez kolo, je bila prečrpana nazaj v zbiralnik nad kolesom.",
+    "question": "Kdo je bil izumitelj atmosferskega motorja?",
+    "answers": {
+      "text": [
+        "Thomas Newcomen okoli",
+        "Thomas Newcomen okoli",
+        "Thomas Newcomen okoli",
+        "Thomas Newcomen okoli"
+      ],
+      "answer_start": [
+        133,
+        133,
+        133,
+        133
+      ]
+    }
+  },
+  {
+    "id": "571126dfa58dae1900cd6cb4",
+    "title": "Steam_engine",
+    "context": "Prvi komercialno uspešen pravi motor, saj je lahko proizvajal moč in jo prenesel na stroj, je bil atmosferski motor, ki ga je izumil Thomas Newcomen okoli leta 1712. To je bilo izboljšanje nad Saveryjevo parno črpalko z batom, kot ga je predlagal Papin. Newcomenov motor je bil relativno neučinkovit in je bil v večini primerov uporabljen za črpanje vode. Delal je tako, da je ustvaril delni vakuum s kondenziranjem pare pod batom v valju. Uporabljena je bila za odvajanje rudnikov na globinah, ki jih doslej ni bilo mogoče, in tudi za zagotavljanje oskrbe z vodo za večkratno uporabo za vožnjo vodnih koles v tovarnah, ki so bile odmaknjene od ustrezne „glave“. Voda, ki je prešla čez kolo, je bila prečrpana nazaj v zbiralnik nad kolesom.",
+    "question": "O katerem letu so izumili atmosferski motor?",
+    "answers": {
+      "text": [
+        "1712",
+        "okoli leta 1712",
+        "1712",
+        "1712"
+      ],
+      "answer_start": [
+        160,
+        149,
+        160,
+        160
+      ]
+    }
+  },
+  {
+    "id": "5ad01a6277cf76001a686a0c",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija vključuje močno pozidano urbano območje, ki se razteza vzdolž pacifiške obale od Venture, skozi širše območje Los Angelesa in celinsko cesarstvo ter vse do Velikega San Diega. Prebivalstvo južne Kalifornije obsega sedem metropolitanskih območij ali MSA: metropolitansko območje Los Angelesa, ki ga sestavljajo okrožja Los Angeles in Orange; celinsko cesarstvo, sestavljeno iz okrožij Riverside in San Bernardino; metropolitansko območje San Diego; metropolitansko območje Oxnard-Thousand Oaks-Ventura; območje podzemne železnice Santa Barbara; metropolitansko območje San Luis Obispo; in območje El Centro. Od teh so tri močno poseljena območja: območje Los Angelesa z več kot 12 milijoni prebivalcev, območje Riverside-San Bernardino z več kot štirimi milijoni prebivalcev in območje San Diego z več kot 3 milijoni prebivalcev. Za CSA metropolitanske namene, pet okrožij Los Angeles, Orange, Riverside, San Bernardino, in Ventura vse skupaj sestavljajo Greater Los Angeles Area z več kot 17,5 milijona ljudi. Z več kot 22 milijoni ljudi, južna Kalifornija vsebuje približno 60 odstotkov prebivalstva Kalifornije.",
+    "question": "Koliko odstotkov kalifornijskih 22 milijonov ljudi živi v južni Kaliforniji?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad01a6277cf76001a686a0d",
+    "title": "Southern_California",
+    "context": "Južna Kalifornija vključuje močno pozidano urbano območje, ki se razteza vzdolž pacifiške obale od Venture, skozi širše območje Los Angelesa in celinsko cesarstvo ter vse do Velikega San Diega. Prebivalstvo južne Kalifornije obsega sedem metropolitanskih območij ali MSA: metropolitansko območje Los Angelesa, ki ga sestavljajo okrožja Los Angeles in Orange; celinsko cesarstvo, sestavljeno iz okrožij Riverside in San Bernardino; metropolitansko območje San Diego; metropolitansko območje Oxnard-Thousand Oaks-Ventura; območje podzemne železnice Santa Barbara; metropolitansko območje San Luis Obispo; in območje El Centro. Od teh so tri močno poseljena območja: območje Los Angelesa z več kot 12 milijoni prebivalcev, območje Riverside-San Bernardino z več kot štirimi milijoni prebivalcev in območje San Diego z več kot 3 milijoni prebivalcev. Za CSA metropolitanske namene, pet okrožij Los Angeles, Orange, Riverside, San Bernardino, in Ventura vse skupaj sestavljajo Greater Los Angeles Area z več kot 17,5 milijona ljudi. Z več kot 22 milijoni ljudi, južna Kalifornija vsebuje približno 60 odstotkov prebivalstva Kalifornije.",
+    "question": "Kaj pomeni MAS?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c0c2fbfd06b001a5ae99c",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Koliko od šestih paketov, ki so na voljo izdajateljem televizijskega programa, je Setanta podarila?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a2c0c2fbfd06b001a5ae99d",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Po dolgem pravnem sporu z Evropsko komisijo, ki je menila, da je izključnost pravic v nasprotju z interesi konkurence in potrošnikov, se je monopol podjetja BSkyB končal od sezone 2007–2008. Maja 2006 je irski izdajatelj televizijskega programa Setanta Sports prejel dva od šestih paketov Premier League, ki jih je angleški FA ponudil izdajateljem televizijskega programa. Sky je pobral preostale štiri za 1,3 milijarde funtov. Februarja 2015 je Sky ponudil 4,2 milijarde funtov za paket 120 premiernih tekem lige v treh sezonah od leta 2016. To je pomenilo 70-odstotno povečanje v primerjavi s prejšnjo pogodbo in naj bi znašalo 1 milijardo GBP več, kot je pričakovalo podjetje. Po potezi so sledili zmanjšanje števila zaposlenih, višje cene naročnin (vključno z 9 % v družinskem paketu družbe Sky) in padec 3D kanala.",
+    "question": "Sky je izgubil koliko paketov?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a637a8868151a001a922305",
+    "title": "Victoria_(Australia)",
+    "context": "Priseljenci so prišli iz vsega sveta, da bi iskali zlato, zlasti iz Irske in Kitajske. Mnogi kitajski rudarji so delali v Viktoriji, njihova zapuščina pa je še posebej močna v Bendigu in njegovi okolici. Čeprav je bilo nekaj rasizma usmerjeno nanje, ni bilo stopnje protikitajskega nasilja, ki so ga videli v nemirih Lambing Flat v Novem južnem Walesu. Vendar pa je prišlo do nemirov v dolini Buckland blizu Brighta leta 1857. Pogoji na zlatih poljih so bili utesnjeni in nehigienski; izbruh tifusa v dolini Buckland leta 1854 je ubil več kot 1.000 rudarjev.",
+    "question": "Kje so bili prokitajski nemiri?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5a637a8868151a001a922306",
+    "title": "Victoria_(Australia)",
+    "context": "Priseljenci so prišli iz vsega sveta, da bi iskali zlato, zlasti iz Irske in Kitajske. Mnogi kitajski rudarji so delali v Viktoriji, njihova zapuščina pa je še posebej močna v Bendigu in njegovi okolici. Čeprav je bilo nekaj rasizma usmerjeno nanje, ni bilo stopnje protikitajskega nasilja, ki so ga videli v nemirih Lambing Flat v Novem južnem Walesu. Vendar pa je prišlo do nemirov v dolini Buckland blizu Brighta leta 1857. Pogoji na zlatih poljih so bili utesnjeni in nehigienski; izbruh tifusa v dolini Buckland leta 1854 je ubil več kot 1.000 rudarjev.",
+    "question": "Kje je bila zlata mrzlica iz leta 1857?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad241c7d7d075001a428979",
+    "title": "Huguenot",
+    "context": "Izraz, ki je bil prvotno uporabljen v zasmehovanju, ima nejasen izvor. Napredovale so različne hipoteze. Vzdevek je bil morda kombiniran sklic na švicarskega politika Besançona Huguesa (umrl 1532) in versko konfliktne narave švicarskega republikanizma v njegovem času z uporabo pametnega ponižujočega stavka na ime Hugues z nizozemsko besedo Huisgenoten (dobesedno sostanovalci), ki se nanaša na konotacije nekoliko povezane besede v nemški Eidgenosse (Confederates kot „državljan ene od držav Švicarske konfederacije“). Ženeva je bila posvojeni dom Johna Calvina in središče kalvinističnega gibanja. V Ženevi je bil Hugues, čeprav katoličan, voditelj „konfederacijske stranke“, tako imenovanega, ker je spodbujal neodvisnost od vojvode Savojske prek zavezništva med mestno državo Ženevo in Švicarsko konfederacijo. Oznaka Huguenot je bila domnevno prvič uporabljena v Franciji za tiste zarotnike (vsi aristokratske člane reformirane cerkve), ki so sodelovali v amboizejevi zaroti iz leta 1560: preprečen poskus, da bi se v Franciji borili z močjo iz vplivne hiše Guise. Poteza bi imela stranski učinek spodbujanja odnosov s Švico. Tako sta Hugues in Eidgenosse s Huisgenotenom domnevno postala Huguenot, vzdevek, ki povezuje protestantski vzrok s politiko nepriljubljene v Franciji.",
+    "question": "Kaj Huisgenoten prevede v francoščini?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad241c7d7d075001a42897a",
+    "title": "Huguenot",
+    "context": "Izraz, ki je bil prvotno uporabljen v zasmehovanju, ima nejasen izvor. Napredovale so različne hipoteze. Vzdevek je bil morda kombiniran sklic na švicarskega politika Besançona Huguesa (umrl 1532) in versko konfliktne narave švicarskega republikanizma v njegovem času z uporabo pametnega ponižujočega stavka na ime Hugues z nizozemsko besedo Huisgenoten (dobesedno sostanovalci), ki se nanaša na konotacije nekoliko povezane besede v nemški Eidgenosse (Confederates kot „državljan ene od držav Švicarske konfederacije“). Ženeva je bila posvojeni dom Johna Calvina in središče kalvinističnega gibanja. V Ženevi je bil Hugues, čeprav katoličan, voditelj „konfederacijske stranke“, tako imenovanega, ker je spodbujal neodvisnost od vojvode Savojske prek zavezništva med mestno državo Ženevo in Švicarsko konfederacijo. Oznaka Huguenot je bila domnevno prvič uporabljena v Franciji za tiste zarotnike (vsi aristokratske člane reformirane cerkve), ki so sodelovali v amboizejevi zaroti iz leta 1560: preprečen poskus, da bi se v Franciji borili z močjo iz vplivne hiše Guise. Poteza bi imela stranski učinek spodbujanja odnosov s Švico. Tako sta Hugues in Eidgenosse s Huisgenotenom domnevno postala Huguenot, vzdevek, ki povezuje protestantski vzrok s politiko nepriljubljene v Franciji.",
+    "question": "V katerem mestu je bil rojen John Calvin?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad3bd8f604f3c001a3fef31",
+    "title": "Steam_engine",
+    "context": "Parni stroji so motorji z zunanjim zgorevanjem, pri katerih je delovna tekočina ločena od produktov zgorevanja. Lahko se uporabijo negorljivi viri toplote, kot so sončna energija, jedrska energija ali geotermalna energija. Idealni termodinamični cikel, ki se uporablja za analizo tega procesa, se imenuje Rankinov cikel. V ciklu se voda segreje in pretvori v paro v kotlu, ki deluje pri visokem tlaku. Ko se razširijo skozi bate ali turbine, se opravi mehansko delo. Para z zmanjšanim tlakom se nato kondenzira in prečrpa nazaj v kotel.",
+    "question": "Katere vrste motorjev so sončni motorji?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  },
+  {
+    "id": "5ad3c637604f3c001a3ff017",
+    "title": "Steam_engine",
+    "context": "Prvi komercialno uspešen pravi motor, saj je lahko proizvajal moč in jo prenesel na stroj, je bil atmosferski motor, ki ga je izumil Thomas Newcomen okoli leta 1712. To je bilo izboljšanje nad Saveryjevo parno črpalko z batom, kot ga je predlagal Papin. Newcomenov motor je bil relativno neučinkovit in je bil v večini primerov uporabljen za črpanje vode. Delal je tako, da je ustvaril delni vakuum s kondenziranjem pare pod batom v valju. Uporabljena je bila za odvajanje rudnikov na globinah, ki jih doslej ni bilo mogoče, in tudi za zagotavljanje oskrbe z vodo za večkratno uporabo za vožnjo vodnih koles v tovarnah, ki so bile odmaknjene od ustrezne „glave“. Voda, ki je prešla čez kolo, je bila prečrpana nazaj v zbiralnik nad kolesom.",
+    "question": "Kateri je bil prvi pravi vakuum, ki je bil komercialno uspešen?",
+    "answers": {
+      "text": [],
+      "answer_start": []
+    }
+  }
+	]
+}
